@@ -1,0 +1,2602 @@
+8:50 AM 11/24/2021
+https://www.dir.ct.gov/ag/complaint/e-complaint.aspx?CheckJavaScript=1
+
+To William Tong, CT Attorney General
+
+Dear CT Attorney General Tong, Our Country cannot move forward with legitimate elections without first fixing the fraud in the November 2020 election. Discovery of irregularities and, yes, outright fraud on a widespread scale has been denied on national, state and municipal levels. If ONE vote changes illegally we have lost the most significant a citizen has: deciding who represents me in governments I set to oversee our corporate well being. Our state interests, and our legal votes, must be protected.  You can do that. Please bring this case to the Supreme Court to save our State and our Country! 
+
+The following text-only copy is preserved formatted except Connecticut* designations therein:
+https://cdn.michaeljlindell.com/downloads/fix2020first/states-v-us-and-states-compl-2021-11-23.pdf
+
+C. Pat Lanyon
+
+======
+text only format:
+======
+No. ______, Original
+In the Supreme Court of the United States
+STATE OF [CONNECTICUT*],
+Plaintiff,
+v.
+UNITED STATES OF AMERICA, PRESIDENT OF THE
+UNITED STATES, VICE- PRESIDENT OF THE UNITED
+STATES, ATTORNEY GENERAL OF THE UNITED
+STATES; SPEAKER OF THE UNITED STATES HOUSE OF
+REPRESENTATIVES, PRESIDENT PRO TEMPORE OF
+THE UNITED STATES SENATE, STATE OF ARIZONA,
+STATE OF GEORGIA, STATE OF MICHIGAN,
+COMMONWEALTH OF PENNSYLVANIA, AND STATE OF WISCONSIN,
+Defendants.
+BILL OF COMPLAINT
+[counsel name, address]
+* Counsel of Record
+i
+TABLE OF CONTENTS
+Table of Exhibits.................................................iv
+Introduction.........................................................1
+Nature of the Action .....................................................4
+Jurisdiction and Venue ................................................8
+Plaintiff State raises an Article III case or controversy....................9
+Sovereign immunity does not bar this action....10
+Plaintiff State lacks an alternate remedy for
+this action.......................................................11
+This action is timely.............................................11
+Parties..........................................................................12
+Legal Background.......................................................12
+Facts.............................................................................15
+The uncontrolled use of mail-in ballots in
+2020 made widespread election fraud
+inevitable........................................................16
+Electronic voting systems are inherently
+vulnerable to hacking and manipulation. ...18
+The State of Arizona’s electoral votes were
+unlawfully certified and counted. ................23
+1. Arizona’s election violated the
+Electors’ Clause.......................................23
+2. Audits of Maricopa County found
+outcome-determinative numbers of
+unlawful votes.........................................24
+The State of Georgia’s electoral votes were
+unlawfully certified and counted. ................29
+1. The violations of Article II in Georgia
+resulted in outcome-determinative
+numbers of unlawful votes.....................30
+ii
+2. Georgia’s use of electronic voting
+machines opened the door to
+electronic manipulation of the vote.......34
+3. The Georgia Senate Election Law
+Study Subcommittee found numerous
+outcome determinative numbers of
+unlawful votes and concluded the
+election results “must be viewed as
+untrustworthy.”.......................................37
+The State of Michigan’s electoral votes were
+unlawfully certified and counted. ................39
+1. The violations of Article II in
+Michigan resulted in outcomedeterminative numbers of unlawful
+votes. .....................................................39
+2. Election officials’ illegal acts in
+Wayne County resulted in outcome
+determinative numbers of unlawful
+votes. .....................................................43
+3. A “glitch” in electronic voting
+machines in Antrim County wrongly
+awarding 6,000 votes to Mr. Biden. ......46
+The Commonwealth of Pennsylvania’s
+electoral votes were unlawfully certified
+and counted....................................................47
+1. Pennsylvania’s voter registration
+system can be easily hacked and
+manipulated. ...........................................47
+iii
+2. Pennsylvania’s final results show
+49,141 more votes than voters and
+the Secretary of State unlawfully
+certified the Pennsylvania election
+results. .....................................................49
+3. Pennsylvania misled this Court and
+continued to illegally count tens of
+thousands of ballots received after
+November 3, 2020. ..................................52
+4. The Pennsylvania Secretary of State
+unconstitutionally threw out state
+election integrity laws governing
+mail-in ballots. ........................................54
+The State of Wisconsin’s electoral voters
+were unlawfully certified and counted. .......57
+1. The Wisconsin Election Commission
+has obstructed investigations into the
+November 2020 election. ........................58
+2. The Racine County Sheriff found the
+WEC committed a felony and three
+misdemeanors by encouraging voter
+fraud in nursing homes ..........................60
+3. The WEC’s and other officials illegal
+use of drop boxes in violation of
+Wisconsin law..........................................62
+4. The WEC encouraged voters to
+illegally declare themselves
+“indefinitely confined” thereby
+avoiding ballot security requirements ..64
+5. The LAB found that 45,665 voters
+used identification to register that
+did not match the records on file...........67
+iv
+6. The Office of the Special Counsel’s
+findings of illegal votes in its First
+Interim Report. .......................................67
+7. Democrat operatives were given
+access to “hidden” networks
+connecting “sensitive machines” at
+the ballot tabulation center in Green
+Bay, WI ....................................................69
+Count I: Electors Clause ............................................70
+Count II: Due Process.................................................71
+Count III: Guarantee Clause .....................................72
+Count IV: Take Care Clause......................................73
+Prayer for Relief..........................................................73
+TABLE OF EXHIBITS
+Memo., John Ratcliffe, Director of National
+Intelligence, Views on Intelligence Community
+Election Security Analysis (Jan. 7, 2021) ...............1
+Letter from Pamela S. Karlan, Principal Deputy
+Assistant Attorney General, Civil Rights
+Division, to Arizona Sen. Karen Fann (May 5,
+2021) ..........................................................................2
+Caltech/MIT Voting Technology Project,
+Summary Report, Election Auditing, Key
+Issues and Perspectives (2018)................................3
+Declaration of Col. John R. Mills (USAR Ret.)
+(Nov. 21, 2021)..........................................................4
+Declaration of J. Alex Halderman (Sept. 21,
+2021) ..........................................................................5
+Email, Steven Rosenberg, Fulton County Deputy
+County Attorney to Garland Favorito (Sept.
+27, 2021) ....................................................................6
+v
+Email, Chris Harvey, Georgia Election Director,
+to Larry Sampson, Murray Cty., Georgia (Dec.
+2, 2020) ......................................................................7
+Sen. William Ligon, Chairman, Election Law
+Study Subcommittee of the Georgia Standing
+Senate Judiciary Committee (Dec. 17, 2020).........8
+Letter, Sen. William Ligon, Georgia State
+Senate, to Donald J. Trump (Jan. 2, 2021) ............9
+Genetski v. Benson, Case No. 20-000216-MM,
+(Mich. Ct. Claims, March 9, 2021)........................10
+Affidavit of Jessy Jacob (Nov. 7, 2020).....................11
+Affidavit of William Hartman (Nov. 18, 2020).........12
+Affidavit of Monica Palmer (Nov. 18, 2020) .............13
+Affidavit of Lisa Gage (Dec. 10, 2020) ......................14
+Affidavit of Ben Cotton (Apr. 8, 2021) ......................15
+Letter, Rep. Francis X. Ryan, Pennsylvania
+House of Representatives, to Rep. Scott Perry,
+U.S. House of Representatives (Dec. 4, 2020)......16
+Wisconsin Legislative Audit Bureau Report (Oct.
+2021) ........................................................................17
+Presentation, Sheriff, Racine County, Wisconsin
+(Oct. 28, 2021).........................................................18
+First Interim Rept., Wisconsin Office of the
+Special Counsel (Nov. 10, 2021)............................19
+Cyber Ninjas, Maricopa County Forensic
+Election Audit, vol. III (Sept. 24, 2021)................20
+A. V. Shiva Ayyadurai, Ph.D., Pattern
+Recognition Classification of Early Voting
+Ballot (EVB) Return Envelope Images for
+Signature Presence Detection: An Engineering
+Systems Approach to Identify Anomalies to
+Advance the Integrity of US. Election (Sept.
+2124, 2021)..............................................................21
+vi
+Letter, Eugene A. DePasquale, Pennsylvania
+Auditor General, to Tom Wolf, Governor,
+Commonwealth of Pennsylvania (Dec. 13,
+2019) ........................................................................22
+Wisconsin Elections Commission Memoranda,
+To: All Wisconsin Election Officials 3 (Aug. 19,
+2020) ........................................................................23
+Wisconsin Safe Voting Plan 2020 Submitted to
+the Center for Tech & Civic Life, June 15,
+2020, by the Mayors of Madison, Milwaukee,
+Racine, Kenosha and Green Bay (Jun. 15,
+2020) ........................................................................24
+1
+“You will never know how much it has cost my
+generation to preserve your freedom. I hope you will
+make a good use of it.”
+John Adams
+INTRODUCTION
+We are in unchartered territory as a Nation.
+The November 2020 election was stolen. Our Country
+is divided in a manner not seen in over a century. Just
+last month, 56% of respondents agreed that “it’s likely
+that cheating affected the outcome of the 2020
+presidential election”—a 5% increase since April
+2021.1 The fault for this deepening divide lies directly
+with the federal and state public officials who not only
+abdicated their sworn duty to support and defend the
+Constitution of the United States, but in many cases
+actively sought to subvert it. The Justices of this
+Court can no longer ignore what the public already
+sees—a time in history like that which Churchill once
+characterized as the gathering storm.
+Revelations of rampant lawlessness by officials
+in states like Georgia, Michigan, Wisconsin, Arizona,
+and Pennsylvania (collectively, “Defendant States”)
+involving outcome-changing illegal votes appear
+daily. For example, in Pennsylvania, after all counties
+had finally uploaded their official November 2020
+election results, there were still 49,171 more votes
+1 That includes 84% of Republicans, 32% of Democrats, and
+54% of Independents. Rasmussen Reports, Vote-By-Mail: Most
+Voters Think It Will Cause More Cheating (Oct. 11, 2021),
+https://www.rasmussenreports.com/public_content/politics/general_politics/october_2021/vote_by_mail_most_voters_think_it_will_cause_more_cheating (last visited Nov. 23, 2021).
+2
+than voters—just one of many examples of illegal
+votes. Under express Pennsylvania law, the election
+should not have been certified.
+This September, it was revealed that election
+officials in Maricopa County, Arizona were caught
+red-handed destroying election records from the
+November 2020 election—in violation of federal law—
+after a court rejected the County’s attempt to thwart
+the Arizona Senate’s investigation into the November
+2020 election. That investigation also found tens of
+thousands of illegal ballots, and that there were
+hundreds of thousands of corrupted or missing ballot
+images—on which the November 2020 election vote
+count is based.
+Also in September, a renowned cyber security
+expert, University of Michigan Professor J. Alex
+Halderman, revealed in a Georgia federal court that
+he had conclusively demonstrated that Dominion
+Voting Systems machines used in at least sixteen
+states can be easily hacked to “steal votes.”
+Inexplicably, the district court denied Prof.
+Halderman’s request to strategically unseal his
+expert report detailing these systemic
+vulnerabilities for the limited purpose of
+bringing it to the Cybersecurity and Infrastructure
+Security Agency (“CISA”) to attempt to fix these
+issues before the next election. Prof. Halderman also
+testified that Georgia Secretary of State
+Raffensperger, a defendant in that case, refused to
+even look at the report or meet with him to go over
+these dangerous security vulnerabilities. The district
+court’s decision to bury Prof. Halderman’s evidence 
+3
+and prevent it from being shared with authorities
+charged with protecting elections is unfathomable.
+This October, the Racine County, Wisconsin,
+Sheriff announced the results of a felony criminal
+investigation of the Wisconsin Election Commission
+(“WEC”) into illegal vote harvesting in nursing homes.
+The Sheriff stated that the governing “election statute
+was in fact not just broken but shattered” in all 72
+counties across Wisconsin and referred the case for
+prosecution. The validity of up to 50,000 ballots may
+be at issue as a consequence.
+Two issues regarding the November 2020
+election are not in dispute. First, in the months
+leading up to the November 2020 election, a few nonlegislative officials in the Defendant States used the
+COVID-19 pandemic as an excuse to
+unconstitutionally revise or violate their states’
+election laws. Their actions had one effect: to
+uniformly weaken security measures put in place by
+state legislatures to protect the integrity of the vote.
+These changes squarely violated the Electors Clause
+of Article II, Section 1, Clause 2 vesting state
+legislatures with plenary authority to make election
+law. These government officials then flooded the
+Defendant States with millions of illegal ballots to be
+sent through the mails, or placed in drop boxes, with
+little or no chain of custody as required by law.
+2
+2 See, e.g., Tiffany Morgan, Five Months After 2020 Election,
+Georgia Still Has Not Produced Chain of Custody Records for
+355,000 Absentee Vote by Mail Ballots Deposited in Drop Boxes,
+THE GEORGIA STAR NEWS, Apr. 8, 2021, available at
+https://georgiastarnews.com/2021/04/08/five-months-after-2020-election-georgia-still-has-not-produced-chain-of-custody-
+4
+Second, the United States’ failure to challenge
+the Defendant States’ violations of Article II,
+including at a time when four of eight justices had
+evenly split on whether to hear such violations in
+October 2020, violated the Take Care Clause and the
+Guarantee Clause of the Constitution commanding
+that the Executive “shall take Care that the Laws be
+faithfully executed” and that “the United States shall
+guarantee to every State in this Union a Republican
+Form of Government.” A stolen election, as the
+November 2020 election was, neither faithfully
+executes the law nor provides a republican form of
+government.
+Since Marbury v. Madison this Court has, on
+significant occasions, had to step into the breach in a
+time of tumult, declare what the law is, and right the
+ship. This is just such an occasion. In fact, it is
+situations precisely like the present—when the
+Constitution has been cast aside unchecked—that
+leads us to the current precipice. In times such as this,
+it is the duty of the Court to be a “faithful guardian[]
+of the Constitution.” THE FEDERALIST NO. 78, at 470
+(C. Rossiter, ed. 1961) (A. Hamilton).
+Against that background, the State of [CONNECTICUT*] (“Plaintiff State”) brings this action based
+on the following allegations:
+NATURE OF THE ACTION
+1. Plaintiff State challenges the Defendant
+States’ administration of the 2020 election under the
+records-for-355000-absentee-vote-by-mail-ballots-deposited-indrop-boxes/ (last visited Nov. 23, 2021).
+5
+Electors Clause of Article II, Section 1, Clause 2, and
+the Fourteenth Amendment of the U.S. Constitution,
+and their obstruction of audits and investigations into
+their actions in attempt to cover up their participation
+in stealing the November 2020 election. which injured
+Plaintiff State.
+2. Plaintiff State further challenges United
+States and five federal officers3 for violating both the
+Guarantee Clause and Take Care Clause of Article IV,
+Section 4 and Article II, Section 3 of the United States
+Constitution, respectively, by failing to remedy the
+Electors Clause violations which destroyed the
+integrity of the Peoples’ vote in the November 2020
+election.
+3. This case presents two core questions of law:
+(i) Did Defendant States violate the
+Electors Clause or the Due Process
+Clause of the Fourteenth Amendment by
+taking—or by allowing—non-legislative
+actions to change the election rules that
+would govern the November 2020 election?
+(ii) Did the federal defendants violate the
+Guarantee Clause or Take Care Clause
+by failing to pursue claims against the
+Defendant States for their constitutional
+3 The five officers are the President of the United States, Vice President of the United States, Attorney General of the United
+States, Speaker of the United States House of Representatives,
+President Pro Tempore of the United States Senate (collectively,
+the “Officer Defendants”).
+6
+violations described above or by ignoring
+evidence of outcome-changing illegal
+votes in the Defendant States and worse
+by impeding investigations of illegal or
+fraudulent votes in at least one Defendant State?
+4. By purporting to waive or otherwise
+modify the existing state law in a manner that was
+wholly ultra vires and not adopted by each state’s
+legislature, Defendant States violated not only the
+Electors Clause, U.S. CONST. art. II, § 1, cl. 2, but also
+the Elections Clause, id. art. I, § 4 (to the extent that
+the Article I Elections Clause textually applies to the
+Article II process of selecting presidential electors).
+5. Plaintiff State alleges that the United
+States flagrantly violated the Guarantee Clause and
+Take Care Clause permitting the November 2020
+stolen election to stand.
+6. Each of Defendant States acted in a
+common pattern. State officials, sometimes through
+pending litigation (e.g., settling “friendly” suits) and
+sometimes unilaterally by executive fiat, announced
+new rules for the conduct of the 2020 election that
+were inconsistent with existing state statutes defining
+what constitutes a lawful vote—and uniformly made
+it easier for illegal or fraudulent mail-in ballots to be
+cast.
+7. Millions of unconstitutional and illegal
+mail-in ballots flooded the election systems across the
+Country that resulted in an election in November
+2020 that was not “one person one vote” as required
+by the Constitution.
+7
+8. Further, officials in the Defendant
+States have since affirmatively impeded
+investigations and audits of the November 2020
+election—in some instances in destroying election
+records—to conceal evidence demonstrating the
+illegal votes and fraud in the November 2020 election.
+Similarly, the federal Department of Justice has
+attempted to impede efforts to investigate election
+fraud, including threatening to investigate the
+Arizona State Senate for investigating election
+irregularities in Maricopa County.4
+9. In addition, on January 7, 2021, the
+Director of National Intelligence (“DNI”) concluded in
+an unclassified memorandum that “CIA Management
+took actions ‘pressuring [analysts] to withdraw their
+support” for findings regarding China’s actions to
+“interfere” in the election. Memo., John Ratcliffe,
+Director of National Intelligence, Views on
+Intelligence Community Election Security Analysis, at
+2 (Jan. 7, 2021) (Tab 1). The DNI concluded that the
+CIA’s actions violated Intelligence Community
+Tradecraft Standards. Id.
+10. The unconstitutional acts and proof of a
+stolen election through illegal and fraudulent ballots
+is also demonstrated by new evidence arising since
+December 11, 2020, that the number of ballots cast in
+violation of the Electors Clause and Due Process
+Clause in Defendant States exceeds the reported
+4 See Letter from Pamela S. Karlan, Principal Deputy
+Assistant Attorney General, Civil Rights Division, to Arizona
+Sen. Karen Fann (May 5, 2021) (Tab 2).
+8
+margin separating the candidates and thus the
+validity of the presidential electors from those States.
+11. The number of votes called into question
+by these constitutional violations greatly exceeds the
+difference between the vote totals of the two
+candidates for President of the United States in each
+Defendant State.
+12. In addition to injunctive relief sought for
+the November 2020 election, Plaintiff State seeks
+declaratory relief for all federal elections in the future.
+This problem is clearly capable of repetition yet
+evading review. The integrity of our constitutional
+democracy requires that states conduct presidential
+elections in accordance with the rule of law and
+federal constitutional guarantees.
+JURISDICTION AND VENUE
+13. This action is within this Court’s original
+jurisdiction under three distinct bases: (a) as a
+“controvers[y] between two or more States” with
+respect to Plaintiff State and Defendant States, 28
+U.S.C. § 1251(a); U.S. CONST. art III, § 2, (b) as a
+“controvers[y] between the United States and a State”
+with respect to Plaintiff State and the United States,
+28 U.S.C. § 1251(b)(2); U.S. CONST. art III, § 2, and
+(c) as an “action[] … by a State against the citizens of
+another State” with respect to Plaintiff State and the
+federal Officer Defendants. 28 U.S.C. § 1251(b)(3);
+U.S. CONST. art III, § 2; South Carolina v. Katzenbach,
+383 U.S. 301, 307 (1966).
+9
+Plaintiff State raises an Article III case or
+controversy.
+14. In a presidential election, “the impact of
+the votes cast in each State is affected by the votes
+cast for the various candidates in other States.”
+Anderson v. Celebrezze, 460 U.S. 780, 795 (1983). The
+constitutional failures of the United States and the
+Defendant States injured the Plaintiff State by
+subverting the electoral process and disillusioning
+voters from the inherently dishonest process of federal
+elections controlled by non-legislative actors.
+15. This Court’s Article III decisions limit
+the ability of citizens to press claims under the
+Electors Clause. Lance v. Coffman, 549 U.S. 437, 442
+(2007) (distinguishing citizen plaintiffs from citizen
+relators who sued in the name of a state); cf.
+Massachusetts v. EPA, 549 U.S. 497, 520 (2007)
+(courts owe states “special solicitude in standing
+analysis”). The Constitution is a compact among the
+States, and the Defendant States’ breach of the terms
+of that compact injures the other states.
+16. Because the Defendant States represent
+a dispositive number of electoral votes, this Court can
+redress Plaintiff State’s injuries by vacating the
+certification of Defendant States’ presidential electors
+and the vote of the Electoral College as certified by the
+Joint Session of Congress. Because redressability
+likely would undermine a suit against a single state
+officer or State because no single State’s electoral
+votes would change the election outcome, this action
+against the United States and multiple State
+defendants is the only action that can redress Plaintiff
+State’s injury.
+10
+17. Under the circumstances presented,
+Plaintiff State has the right under the Twelfth
+Amendment to participate in an election of the
+President and Vice President in the House and
+Senate, respectively, U.S. CONST. art. XII, which the
+defendants’ unlawful actions denied Plaintiff State
+and which this Court can redress by ordering that
+that election take place.
+18. The States enjoy a right of suffrage in the
+Senate, U.S. CONST. art. V, and Vice-President casts
+the tie-breaking vote in the Senate. U.S. CONST. art.
+II, § 3, cl. 4. As of the certification of two Georgia 
+runoff elections in January of 2021, the Senate is evenly
+divided, and the election of the Vice-President will
+determine which party—that of Plaintiff State’s two
+senators or that of the opposition party—will have the
+majority in the Senate. The constitutional violations
+alleged herein denied Plaintiff State’s senators the
+advantage of majority status in the Senate.
+Sovereign immunity does not bar this action.
+19. Defendant United States has waived its
+sovereign immunity for actions against the Attorney
+General, 5 U.S.C. § 702, and sovereign immunity does
+not protect the Officer Defendants from suits against
+unconstitutional action and inaction. Franklin v.
+Massachusetts, 505 U.S. 788, 800-01 (1992) (citing
+Youngstown Sheet & Tube Co. v. Sawyer, 343 U.S. 579
+(1952)). “No separate waiver of sovereign immunity is
+required to seek a writ of mandamus to compel an
+official to perform a duty required in his official
+capacity.” Fornaro v. James, 416 F.3d 63, 69 (D.C. Cir.
+2005) (Roberts, J.); cf. 28 U.S.C. § 1361.
+11
+Plaintiff State lacks an alternate remedy for this action.
+20. Individual state courts or U.S. district
+courts do not—and under the circumstance of
+contested elections in multiple states, cannot—offer
+an adequate remedy to resolve election disputes
+within the timeframe set by the Constitution to
+resolve such disputes and to appoint a President via
+the electoral college. No court—other than this
+Court—can redress constitutional injuries spanning
+multiple States with the sufficient number of states
+joined as defendants or respondents to alter the result
+in the Electoral College.
+21. This Court is the sole judicial forum in
+which to exercise the jurisdictional basis for this
+action.
+22. The political branches do not provide an
+adequate forum which to resolve the claims against
+the Officer Defendants or the United States because
+the Officer Defendants control the executive and
+legislative branches of the United States government.
+This action is timely.
+23. In the absence of a directly applicable
+statute of limitations, actions against the United
+States must be brought within six years of the action’s
+arising, 28 U.S.C. § 2401(a), and the limitation set by
+the equitable doctrine of laches cannot be less than
+the statute of limitations. SCA Hygiene Prods.
+Aktiebolag v. First Quality Baby Prods., LLC, 137
+S.Ct. 954, 960 (2017). In any event, Plaintiff State has
+brought this action promptly after the development of 
+12
+new evidence that was previously unavailable. For
+these reasons, this action is timely.
+PARTIES
+24. Plaintiff is the State of [CONNECTICUT*], which is a sovereign State of the United States.
+25. Defendants are the Commonwealth of
+Pennsylvania and the States of Georgia, Michigan,
+Arizona, and Wisconsin, which are sovereign States of
+the United States.
+26. Defendant United States is the federal
+sovereign.
+27. Defendants President of the United
+States, Vice- President of the United States, Attorney
+General of the United States, Speaker of the United
+States House of Representatives, President Pro
+Tempore of the United States Senate (collectively, the
+“Officer Defendants”) are officers of the United States
+sued in their official capacities and named by the
+office they hold. See S. Ct. Rule 35.4. The current
+officers—Joseph R. Biden, Jr., Kamala Harris, Nancy
+Pelosi, Patrick Leahy, and Merrick Garland—are
+citizens of Delaware, California, California, Vermont,
+and Maryland, respectively.
+LEGAL BACKGROUND
+28. Under the Supremacy Clause, the “Constitution, 
+and the laws of the United States which
+shall be made in pursuance thereof … shall be the
+supreme law of the land.” U.S. CONST. Art. VI, cl. 2.
+29. “The individual citizen has no federal
+constitutional right to vote for electors for the
+President of the United States unless and until the 
+13
+state legislature chooses a statewide election as the
+means to implement its power to appoint members of
+the electoral college.” Bush v. Gore, 531 U.S. 98, 104
+(2000) (citing U.S. CONST. art. II, § 1) (“Bush II”).
+30. State legislatures have plenary power to
+set the process for appointing presidential electors:
+“Each State shall appoint, in such Manner as the
+Legislature thereof may direct, a Number of Electors.”
+U.S. CONST. art. II, §1, cl. 2; see also Bush II, 531 U.S.
+at 104 (“[T]he state legislature’s power to select the
+manner for appointing electors is plenary.” [emphasis
+added]).
+31. At the time of the Founding, most States
+did not appoint electors through popular statewide
+elections. In the first presidential election, six of the
+ten States that appointed electors did so by direct
+legislative appointment. McPherson v. Blacker, 146
+U.S. 1, 29-30 (1892).
+32. In the second presidential election, nine
+of the fifteen States that appointed electors did so by
+direct legislative appointment. Id. at 30.
+33. In the third presidential election, nine of
+sixteen States that appointed electors did so by direct
+legislative appointment. Id. at 31. This practice
+persisted in lesser degrees through the Election of
+1860. Id. at 32.
+34. Though “[h]istory has now favored the
+voter,” Bush II, 531 U.S. at 104, “there is no doubt of
+the right of the legislature to resume the power [of
+appointing presidential electors] at any time, for it can
+neither be taken away nor abdicated.” McPherson, 146
+U.S. at 35 (emphasis added); cf. 3 U.S.C. § 2
+(“Whenever any State has held an election for the 
+14
+purpose of choosing electors, and has failed to make a
+choice on the day prescribed by law, the electors may
+be appointed on a subsequent day in such a manner
+as the legislature of such State may direct.”).
+35. This Court has stated that “[m]ore
+recently, the Court has suggested that perhaps not all
+claims under the Guarantee Clause present
+nonjusticiable political questions.” New York v. United
+States, 505 U.S. 144, 185 (1992). The acts of nonlegislative officials in the Defendant States
+abrogating state election law indisputably “pose . . .
+realistic risk of altering the form or the method of
+functioning of [their States’] governments.” Id. at 186.
+In fact, the Article II violations go to the very heart of
+a Republican form of government.
+36. As Justice Thomas stated in his dissent
+in United States Term Limits v. Thorton, 514 U.S. 779
+(1995):
+Our system of government rests on one
+overriding principle: All power stems from
+the consent of the people. To phrase the
+principle in this way, however, is to be
+imprecise about something important to the
+notion of ‘reserved’ powers. The ultimate
+source of the Constitution’s authority is the
+consent of the people of each individual
+State, not the consent of the
+undifferentiated people of the Nation as a
+whole.
+Id. at 846 (Thomas, J., dissenting, with the Chief
+Justice and Justices O’Connor and Scalia joining).
+37. The Constitution is a voluntary compact
+among the people of the States. When the Defendant 
+15
+States disregarded the Constitution in a manner as
+fundamental to our republican form of government as
+is Article II here, the United States is required to
+under Article IV to step in and enforce the
+Constitution against such unlawful acts.
+38. Independently, a government
+implemented through a stolen election is not a
+republican form of government. The failure of the
+United States to prevent the electoral manipulations
+by the Defendant States (and other States), also
+violated Article IV because that failure “risk[s] . . .
+altering the form or the method of functioning of [all
+States’] governments.” New York v. United States, 505
+U.S. at 185; see also Erwin Chemerinsky, Cases Under
+the Guarantee Clause Should Be Justiciable, 65 COLO.
+L. REV. 849, 868 (1994) (“[T]he key features of a
+republican form of government are a right to vote and
+a right of political participation.”).
+39. Given the State legislatures’
+constitutional primacy in selecting presidential
+electors, the ability to set rules governing the casting
+of ballots and counting of votes cannot be usurped by
+other branches of state government.
+40. Defendant States’ applicable laws are set
+out under the facts for each Defendant State.
+FACTS
+41. In December 2018, the Caltech/MIT
+Voting Technology Project and MIT Election Data &
+Science Lab issued a comprehensive report 
+16
+addressing election integrity issues.5 The
+fundamental question they sought to address was:
+“How do we know that the election outcomes
+announced by election officials are correct?”
+42. The Caltech/MIT Report concluded:
+“Ultimately, the only way to answer a question like
+this is to rely on procedures that independently review
+the outcomes of elections, to detect and correct
+material mistakes that are discovered. In other words,
+elections need to be audited.” Id. at iii. The
+Caltech/MIT Report then set forth a detailed analysis
+of why and how such audits should be done for the
+same reasons that exist today—a lack of trust in our
+voting systems.
+43. The constitutional violations committed
+by Defendant States and the federal defendants
+directly affected the outcome of the Electoral College
+vote. Those violations proximately caused the
+appointment of presidential electors for Mr. Biden
+and the improper certification of his election.
+The uncontrolled use of mail-in ballots in 2020
+made widespread election fraud inevitable.
+44. The use of absentee and mail-in ballots
+skyrocketed in 2020, not only as a purported public health 
+response to the COVID-19 pandemic but also
+at the urging of mail-in voting’s proponents, and most
+especially executive branch officials in Defendant
+States. According to the Pew Research Center, in the
+2020 general election, a record number of votes—
+5 See Caltech/MIT Voting Technology Project, Summary
+Report, Election Auditing, Key Issues and Perspectives (2018)
+(Tab 3).
+17
+about 65 million—were cast via mail compared to 33.5
+million mail-in ballots cast in the 2016 general
+election—an increase of more than 94 percent.
+45. In the wake of the contested 2000
+election, the bipartisan Jimmy Carter-James Baker
+commission identified absentee ballots as “the largest
+source of potential voter fraud.” BUILDING
+CONFIDENCE IN U.S. ELECTIONS: REPORT OF THE
+COMMISSION ON FEDERAL ELECTION REFORM, at 46
+(Sept. 2005).
+46. Concern over the use of mail-in ballots is
+not novel to the modern era, Dustin Waters, Mail-in
+Ballots Were Part of a Plot to Deny Lincoln Reelection
+in 1864, WASH. POST (Aug. 22, 2020),6 and it remained
+a concern leading up to the November 2020 election.
+Crawford v. Marion Cty. Election Bd., 553 U.S. 181,
+194-96 & n.11 (2008); see also Texas Office of the
+Attorney General, AG Paxton Announces Joint
+Prosecution of Gregg County Organized Election
+Fraud in Mail-In Balloting Scheme (Sept. 24, 2020);
+Harriet Alexander & Ariel Zilber, Minneapolis police
+opens investigation into reports that Ilhan Omar's
+supporters illegally harvested Democrat ballots in
+Minnesota, DAILY MAIL, Sept. 28, 2020.
+47. Absentee and mail-in voting are the
+primary opportunities for unlawful ballots to be cast
+in scale. As a result of the explosion in absentee and
+mail-in voting in Defendant States, combined with
+Defendant States’ unconstitutional modification of
+6 https://www.washingtonpost.com/history/2020/08/22/mailin-voting-civil-war-election-conspiracy-lincoln/ (last visited Nov.23, 2021).
+18
+statutory protections designed to ensure election
+integrity, Defendant States created a massive
+opportunity for fraud. In addition, Defendant States
+made it difficult or impossible to separate the
+constitutionally tainted mail-in ballots from valid
+mail-in ballots.
+48. Rather than augment safeguards
+against illegal voting in anticipation of the millions of
+additional mail-in ballots flooding into their States,
+Defendant States all materially weakened, or did
+away with, security measures, such as witness or
+signature verification procedures, and prohibitions on
+unmanned ballot drop boxes, required by their
+respective legislatures. Their legislatures established
+those commonsense safeguards to prevent—or at least
+reduce—fraudulent mail-in ballots.
+49. Significantly, in Defendant States,
+Democrat voters voted by mail at two to three times
+the rate of Republicans. Mr. Biden thus greatly
+benefited from this unconstitutional usurpation of
+legislative authority, and the weakening of
+legislatively mandated ballot security measures.
+Electronic voting systems are inherently
+vulnerable to hacking and manipulation.
+50. In addition to the unconstitutional acts
+associated with mail-in and absentee voting, there are
+grave issues surrounding the vulnerability of
+electronic voting machines—such as the electronic
+voting systems provided by Dominion Voting Systems,
+Inc. (“Dominion”) and Election Systems & Software
+(“ES&S”)—that were in use in all of the Defendant 
+19
+States (and other states as well) during the November
+2020 election.
+51. In 2017, the U.S. Department of
+Homeland Security (“DHS”) designated election
+infrastructure as critical infrastructure pursuant to
+42 U.S.C. § 5195c. See Curling v. Kemp, 334 F. Supp.
+3d 1303, 1311 (N.D. Ga. 2018). The United States thus
+formally articulated its duty to protect the Nation’s
+election systems.
+52. On November 12, 2020, after the
+November 2020 election, members of Elections
+Infrastructure Government Coordinating Council &
+The Election Infrastructure Sector Coordinating
+Executive Committees issued a joint statement
+declaring that “[t]he November 3rd election was the
+most secure in American history.” The purveyors of
+this statement provided no support for this bald-faced
+assertion.
+53. In an ironic twist, four weeks later, on
+December 13, 2020, the U.S. Government announced
+the largest cyberattack in the Country’s history
+affecting more than 18,000 public and private
+organizations—including at least one voting machine
+company.
+54. As Plaintiff’s expert, Col. John Mills
+(USAR Ret.), a former Director of Cybersecurity
+Policy, Strategy, and International Affairs, Office of
+the Secretary of Defense, Senior Civilian possessing
+almost 40 years of experience in the planning and use
+of U.S. cybersecurity-related instruments of national
+power testifies:
+• The United States Government has the
+capability to project significant effects toward 
+20
+critical infrastructure worldwide—including
+election systems. This same capability now
+exists in other countries, such as China,
+Russian, Iran, and Venezuela, and these
+foreign powers now use these same, similar,
+and improved remote access operation
+methodologies at will to assert their own
+national agendas.
+• These operations have created a growing talent
+base of personnel, software, and networkenabled, 
+remote-access capabilities that are becoming ubiquitous 
+in the hands of companies
+and personnel outside of the U.S. Government.
+• Statements that the November 2020 election
+was “the most secure in American history”
+asserted in a November 12, 2020, posted on the
+CISA website, had little, if any, basis in fact.
+Declaration of Col. John R. Mills, ¶¶ 9 -14 (USAR Ret.)
+(Tab 4).
+55. Further highlighting the extreme risk of
+manipulation of our electronic voting systems is the
+public testimony of renowned cyber security expert,
+University of Michigan Professor J. Alex Halderman.
+On June 21, 2017, he testified to the United States
+Senate Intelligence Committee on how easy it is to
+hack electronic voting systems to change the outcome
+of a national election.
+56. The following statement by Professor
+Halderman at this hearing is startling:
+21
+My conclusion from that work is that our
+highly computerized election infrastructure
+is vulnerable to sabotage and even to cyber
+attacks that could change votes. These
+realities risk making our election results
+more difficult for the American people to
+trust. … I know America's voting machines
+are vulnerable because my colleagues and I
+have hacked them repeatedly as part of a
+decade of research studying the technology
+that operates elections and learning how to
+make it stronger. We've created attacks
+that can spread from machine to machine,
+like a computer virus, and silently change
+election outcomes. … This puts the entire
+Nation at risk. In close elections, an
+attacker can probe the most important
+swing states or swing counties, find areas
+with the weakest protection, and strike
+there. In a close election year, changing a 
+22
+few votes in key localities could be enough
+to tip national results.
+Russian Interference in the 2016 U.S. Elections:
+Hearing before the Sen. Select Comm. on Intelligence,
+115th Cong.,72 (2017). Professor Halderman’s entire
+introductory remarks can be seen at the link in the
+footnote below. 7
+57. On September 21, 2021 Prof. Halderman
+filed a declaration in Curling v. Raffensperger, No.
+1:17-cv-2989-AT (N.D. Ga.), requesting that the
+district court unseal his July 1, 2021 25,000-word
+expert report (the “Report”) stating under the penalty
+of perjury, that the hacking/malware threat to
+Dominion voting machines used in 16 states is so
+“urgent” that his Report must be released to CISA to
+try to fix these issues, and that CISA has
+acknowledged that it is prepared to do so.8
+58. Prof. Halderman testified that “These
+are not general weaknesses or theoretical problems
+but rather specific flaws in [Dominion’s] ICX software
+and I am prepared to demonstrate proof-of-concept
+malware that can exploit them to steal votes.” Id.
+59. Prof. Halderman also testified that:
+“Informing responsible parties about the [Dominion]
+ICX’s vulnerabilities is becoming more urgent by the
+day. Foreign or domestic adversaries who are intent
+7 https://www.youtube.com/watch?v=AmivIHUAy8Q
+(opening testimony at 2:15:15 to 2:21:15) (last visited Nov. 23,
+2021).
+8 See Declaration of J. Alex Halderman (Tab 5). The 16 states
+are: Alaska, Arizona, California, Colorado, Georgia, Illinois,
+Kansas, Louisiana, Michigan, Missouri, Nevada New Jersey,
+Ohio, Pennsylvania, Tennessee, and Washington. Id. at ¶5
+23
+on attacking elections certainly could have already
+discovered the same problems I did.” Id.
+60. Prof. Halderman testified that Georgia
+Secretary of State Raffensperger is refusing to
+address these issues and, along with the other
+defendant Georgia county election officials, has
+objected to disclosing his Report just to CISA leaving
+Prof. Halderman to state that “continuing to conceal
+[these] problems . . . serves no one and only hurts
+voters.” Id. (emphasis added).
+The State of Arizona’s electoral votes were
+unlawfully certified and counted.
+61. Arizona has 11 electoral votes, with a
+state-wide vote tally 1,661,686 for Mr. Trump and
+1,672,143 for Mr. Biden, a margin of 10,457 votes.
+62. The number of illegal votes and votes
+affected by the various constitutional violations far
+exceeds the margin of votes separating the
+candidates.
+1. Arizona’s election violated the Electors’ Clause.
+63. Since 1990, Arizona law has required
+that residents wishing to participate in an election
+submit their voter registration materials no later than
+29 days prior to election day in order to vote in that
+election. Ariz. Rev. Stat. § 16-120(A). For 2020, that
+deadline was October 5.
+64. Such deadlines are permissible: “State is
+certainly justified in imposing some reasonable cutoff
+point for registration … which citizens must meet in 
+24
+order to participate in the next election.” Rosario v.
+Rockefeller, 410 U.S. 752, 760 (1973).
+65. In Mi Familia Vota v. Hobbs, 492 F.
+Supp. 3d 980 (D. Ariz. 2020), however, a federal
+district court violated the Electors Clause and
+enjoined that law, extending the registration deadline
+to October 23, 2020. The Ninth Circuit stayed that
+order on October 13, 2020, with a two-day grace
+period, Mi Familia Vota v. Hobbs, 977 F.3d 948, 955
+(9th Cir. 2020).
+66. Nonetheless, the Ninth Circuit did not
+apply the stay retroactively because neither the
+Arizona Secretary of State nor the Arizona Attorney
+General requested retroactive relief. Id. at 954-55. As
+a net result, the deadline was unconstitutionally
+extended from the statutory deadline of October 5 to
+October 15, 2021, thereby allowing more than 52,000
+registrations in violation of Arizona law. Brahm
+Resnik, Court cuts off extension of Arizona voter
+registration on Thursday, 12 NEWS, Oct. 13, 2020.9
+2. Audits of Maricopa County found
+outcome-determinative numbers of unlawful votes.
+67. In addition the foregoing purely legal
+Electors Clause violation, audits of the 2020 election
+results in Maricopa County discovered evidence of
+outcome-determinative discrepancies and fraud.
+9 https://www.12news.com/article/news/politics/elections/courtcuts-off-extension-of-arizona-voter-registration-after-2-moredays/75-86c59dfb-2950-4fea-89aa-6c38542b10de (last visited Nov. 23, 2021).
+25
+68. On December 15, 2020, the Arizona
+State senate served two subpoenas on the Maricopa
+County Board of Supervisors (the “Maricopa Board”)
+to audit scanned ballots, voting machines, and
+software based on voting irregularities. The Arizona
+Senate Judiciary Chairman stated in a public hearing
+earlier that day that “[t]here is evidence of tampering,
+there is evidence of fraud” with vote in Maricopa
+County.
+69. Rather than comply with the subpoenas,
+the Maricopa Board fought the subpoenas in state
+court, which resulted in the issuance of two new,
+superseding subpoenas on January 12, 2021.
+Although the Maricopa Board complied in part, it
+continued to seek to withhold the balance of the
+subpoenaed election materials (e.g., ballots, voting
+equipment) needed to audit election results.
+70. Although the Arizona Senate prevailed
+on the lawfulness of the subpoenas, Maricopa Cty. v.
+Fann, No. CV 2020-016840 (Maricopa Cty. Super. Ct.
+Feb. 25, 2021), the Maricopa Board and other County
+officials continued to obstruct the audit and withheld
+materials covered by the subpoenas (e.g., splunk logs,
+routers, and equipment) that could determine the
+extent of internet connectedness or intrusions.
+71. After the Maricopa County Superior
+Court upheld the issuance of the operative subpoenas,
+on March 3, 2021, someone using an administrative
+account from a valid local network address accessed
+Maricopa County’s Election Management System
+(“EMS”) server and executed a script 37,686 times,
+with each execution resulting on the overwriting of
+one entry in the EMS server’s security log (i.e., the log 
+26
+has a fixed capacity, and each new entry displaced the
+oldest entry), thereby destroying evidence of the
+network accesses to the EMS during the 2020 election.
+72. The Arizona Senate engaged systems
+and cybersecurity firms to audit the election materials
+produced by the County using forensic methods that
+exceed the type of hand recount typically conducted in
+close elections. Unlike a forensic audit, a recount
+would not detect fraud in the same way that
+recounting the money in a cash register would not
+detect whether a business had been passed counterfeit
+currency.
+73. On September 24, 2021, the forensic
+auditors presented their reports to the Arizona State
+Senate in both written form and testimony.
+74. The forensic auditors found numerous
+anomalies and outcome-determinative discrepancies
+with the Maricopa County election materials made
+available to them, including:
+• 255,326 ballots included in the “final voted file”
+(the “VM55” file) as having voted early that
+were not included in the “early voting returns
+file” (the “EV33” file), when the EV33 file
+should have an entry for each early vote cast
+(whether by mail or in person) with the details
+as to when and how that vote was cast;
+• 23,344 mail-in ballots cast when the registered
+voter had moved and where no one with the
+same surname remained at the address;
+• 5,295 instances of multiple ballots from the
+same person;
+27
+• 3,432 more votes in the official results than in
+the final-voted (“VM55”) file;
+• 2,592 more duplicate ballots than ballots sent
+for duplication;
+• 1,528 voters who had moved to another state;
+• 618 votes by persons not on the official precinct
+register 10 days prior to election;
+• 397 mail-in ballots returned without any record
+of a ballot having been sent to the voter;
+• 282 registered voters who died before October
+5, 2020, and nonetheless voted;
+• 198 votes by persons who registered after the
+cut-off date for registering to vote in the 2020
+election.
+Cyber Ninjas, Maricopa County Forensic Election
+Audit, vol. III, at 6, 51, 10, 12-14, 20-21, 25-26, 29-30,
+34-36 (Sept. 24, 2021) (Tab 20).
+75. Although Maricopa County withholding
+the router, Splunk, and NetFlow data prevented an
+audit of all internet connections with the Maricopa
+County election system, the audit network auditors
+did find evidence of internet activity in unallocated
+space—i.e., portions of deleted files—on the Maricopa
+County election systems dated after the installation of
+the Dominion voting software suite on August 6, 2020.
+This finding proves that Maricopa County’s claim that
+its election systems were not connected to the internet
+is false.
+76. The forensic auditors were unable to
+determine whether votes or results had been
+electronically altered from the materials initially
+provided because Maricopa County officials withheld 
+28
+or overwrote equipment and data that would allow
+forensic auditors to determine whether intrusions
+had—or had not—occurred and, if so, from where
+those intrusions came.
+77. In addition, A. V. Shiva Ayyadurai,
+Ph.D., analyzed signatures from the images of early
+voting ballot envelopes that Maricopa County
+provided to the Arizona Senate. His findings included
+the following anomalies and outcome-determinative
+discrepancies from an analysis of the signature
+regions of the 1,929,240 early-voting ballot (“EVB”)
+return envelope images provided:
+• 17,322 duplicate mail-in voting early ballots by
+17,126 voters who voted twice (16,934 voters),
+thrice (188 voters), or four times (4 voters);
+• 9,589 fewer EVB return envelopes identified as
+even having a signature than Maricopa County
+submitted for signature verification;
+• A 59.7% decrease in the number of EVB return
+envelopes rejected as having a signature
+mismatch versus the 2016 election,
+notwithstanding that the number of EVB
+return envelopes increased 52.6% from 2016 to
+2020;
+• 6,545 fewer EVB return envelope images made
+available than reported by Maricopa County’s
+canvass report on the 2020 general election;
+• 2,580 “scribbles” in the signature region—
+which would indicate a “bad signature” if a
+review were commissioned to analyze
+signatures—when Maricopa County reported
+having rejected only 587 “bad signature” EVB 
+29
+return envelopes in its canvass report on the
+2020 general election;
+• 464 more "no signature" EVB return
+envelopes—a total of 1,919—when Maricopa
+County reported having rejected only 1,455 “no
+signature” EVB return envelopes in its canvass
+report on the 2020 general election.
+A. V. Shiva Ayyadurai, Ph.D., Pattern Recognition
+Classification of Early Voting Ballot (EVB) Return
+Envelope Images for Signature Presence Detection:
+An Engineering Systems Approach to Identify
+Anomalies to Advance the Integrity of US. Election
+Processes, at 62, 88-89 (Sept. 24, 2021) (Tab 21).
+78. Based on his review of signature region
+on the EVB return envelopes, Dr. Shiva concluded
+that a full audit (e.g., comparing the signature on EVB
+return envelope images with voters’ signatures from
+voter registration files) of the Maricopa signatureverification process is needed.
+The State of Georgia’s electoral votes were
+unlawfully certified and counted.
+79. Georgia has 16 electoral votes, with a
+statewide vote tally of 2,461,854 for Mr. Trump and
+2,473,633 for Mr. Biden, a margin of approximately
+11,779 votes.
+80. The number of illegal votes and votes
+affected by the various constitutional violations far
+exceeds the margin of votes separating the
+candidates.
+30
+1. The violations of Article II in Georgia
+resulted in outcome-determinative
+numbers of unlawful votes.
+81. In July 2020, Georgia Secretary of State
+Raffensperger and the Georgia State Election Board,
+without legislative approval as required under
+Georgia’s Constitution, authorized the use of 300
+absentee ballot drop boxes beginning 49 days before
+the November 2020 election. Rule 183-1-14-0.8-.14
+Secure Absentee Ballot Drop Boxes.
+82. Under this Rule, each of Georgia’s 159
+counties is responsible for documenting the transfer
+of every batch of absentee ballots picked up at drop
+boxes and delivered to the county election offices with
+ballot transfer forms. The forms are required to be
+signed and dated, with time of pick up by the
+collection team upon pick up, and then signed, dated,
+with time of delivery by the registrar or designee upon
+receipt and accepted.
+83. As of April 2021, officials at the state and
+county level in Georgia have failed to produce chain of
+custody records for more than 355,000 absentee vote
+by mail ballots deposited in drop boxes located around
+the state for that election.
+84. In addition, Georgia’s Secretary of State,
+Brad Raffensperger, without legislative approval,
+unilaterally abrogated Georgia’s statutes governing
+the date a ballot may be opened, and the signature
+verification process for absentee ballots.
+85. O.C.G.A. § 21-2-386(a)(2) prohibits the
+opening of absentee ballots until after the polls open
+on Election Day. In April 2020, however, the State
+Election Board adopted Secretary of State Rule 183-1-
+31
+14-0.9-.15, Processing Ballots Prior to Election Day.
+That rule purports to authorize county election
+officials to begin processing absentee ballots up to
+three weeks before Election Day. Outside parties were
+then given early and illegal access to purportedly
+defective ballots to “cure” them in violation of
+O.C.G.A. §§ 21-2-386(a)(1)(C), 21-2-419(c)(2).
+86. Specifically, Georgia law authorizes and
+requires a single registrar or clerk—after reviewing
+the outer envelope—to reject an absentee ballot if: the
+voter failed to sign the required oath or to provide the
+required information; the signature appears invalid or
+the required information does not conform with the
+information on file; or if the voter is otherwise found
+ineligible to vote. O.C.G.A. § 21-2-386(a)(1)(B)-(C).
+87. Georgia law provides absentee voters the
+chance to “cure a failure to sign the oath, an invalid
+signature, or missing information” on a ballot’s outer
+envelope by the deadline for verifying provisional
+ballots (i.e., three days after the election). O.C.G.A. §§
+21-2-386(a)(1)(C), 21-2-419(c)(2). To facilitate cures,
+Georgia law requires the relevant election official to
+notify the voter in writing: “The board of registrars or
+absentee ballot clerk shall promptly notify the elector
+of such rejection, a copy of which notification shall be
+retained in the files of the board of registrars or
+absentee ballot clerk for at least two years.” O.C.G.A.
+§ 21-2-386(a)(1)(B).
+88. There were 284,817 early ballots
+corrected and accepted in Georgia out of 4,018,064
+early ballots used to vote in Georgia. Mr. Biden
+received nearly twice the number of mail-in votes as 
+32
+Mr. Trump and thus materially benefited from this
+unconstitutional change in Georgia’s election laws.
+89. In addition, on March 6, 2020, in
+Democratic Party of Georgia v. Raffensperger, No.
+1:19-cv-5028-WMR (N.D. Ga.), Georgia’s Secretary of
+State, a non-legislative actor, entered a Compromise
+Settlement Agreement and Release with the
+Democratic Party of Georgia (the “Settlement”) to
+materially change the legislature’s statutory
+requirements for reviewing signatures on absentee
+ballot envelopes to confirm the voter’s identity by
+making it far more difficult to challenge defective
+signatures beyond the express mandatory procedures
+set forth at GA. CODE § 21-2-386(a)(1)(B).
+90. Among other things, before a ballot could
+be rejected, the Settlement required a registrar who
+found a defective signature to now seek a review by
+two other registrars, and only if a majority of the
+registrars agreed that the signature was defective
+could the ballot be rejected but not before all three
+registrars’ names were written on the ballot envelope
+along with the reason for the rejection. These
+cumbersome procedures are in direct conflict with
+Georgia’s statutory requirements, as is the
+Settlement’s requirement that notice be provided by
+telephone (i.e., not in writing) if a telephone number
+is available. Finally, the Settlement purports to
+require State election officials to consider issuing
+guidance and training materials drafted by an expert
+retained by the Democratic Party of Georgia.
+91. Georgia’s legislature has not ratified
+these material purported changes to statutory law
+mandated by the Compromise Settlement Agreement 
+33
+and Release, including altered signature verification
+requirements and early opening of ballots. The
+relevant legislation that was violated by the
+Compromise Settlement Agreement and Release did
+not include a severability clause.
+92. This unconstitutional purported change
+in Georgia law materially benefitted Mr. Biden.
+According to the Georgia Secretary of State’s office,
+Mr. Biden had almost double the number of absentee
+votes (65.32%) as Mr. Trump (34.68%).
+93. The effect of this unconstitutional
+change in Georgia election law, which made it more
+likely that ballots without matching signatures would
+be counted, had a material impact on the outcome of
+the election.
+94. Specifically, there were 1,305,659
+absentee mail-in ballots submitted in Georgia in 2020.
+There were 4,786 absentee ballots rejected in 2020.
+This is a rejection rate of .37%. In contrast, in 2016,
+the 2016 rejection rate was 6.42% with 13,677
+absentee mail-in ballots being rejected out of 213,033
+submitted, which is more than seventeen times greater
+than in 2020.
+95. If the rejection rate of mailed-in absentee
+ballots remained the same in 2020 as it was in 2016,
+there would be 83,517 fewer tabulated ballots in 2020.
+The statewide split of absentee ballots was 34.68% for
+Trump and 65.2% for Biden. Rejecting at the higher
+2016 rate with the 2020 split between Trump and
+Biden would decrease Trump votes by 28,965 and
+Biden votes by 54,552, which would be a net gain for
+Trump of 25,587 votes. This would be more than
+needed to overcome the Biden advantage of 11,779 
+34
+votes. Regardless of the number of ballots affected,
+however, the non-legislative changes to the election
+rules violated the Electors Clause.
+2. Georgia’s use of electronic voting
+machines opened the door to
+electronic manipulation of the vote.
+96. In addition, Georgia uses Dominion’s
+electronic voting machines throughout the State. Less
+than a month before the election, the United States
+District Court for the Northern District of Georgia
+ruled on a motion brought by a citizen advocate group
+and others seeking a preliminary injunction to stop
+Georgia from using Dominion’s voting systems due to
+their known vulnerabilities to hacking and other
+irregularities. See Curling v. Raffensperger, 493 F.
+Supp. 3d 1264 (N.D. Ga. 2020) (“Curling”).
+97. Though the district court found that it
+was bound by Eleventh Circuit law to deny plaintiffs’
+motion, it issued a prophetic warning stating:
+The Court's Order has delved deep into the
+true risks posed by the new BMD voting
+system as well as its manner of
+implementation. These risks are neither
+hypothetical nor remote under the current
+circumstances. The insularity of the
+Defendants’ and Dominion's stance
+here in evaluation and management of
+the security and vulnerability of the
+BMD system does not benefit the public
+or citizens' confident exercise of the
+franchise. The stealth vote alteration or
+operational interference risks posed by 
+35
+malware that can be effectively invisible to
+detection, whether intentionally seeded or
+not, are high once implanted, if equipment
+and software systems are not properly
+protected, implemented, and audited.
+493 F. Supp. 3d at 1341 (emphasis added).
+98. In a November 4, 2020, video interview,
+Fulton County, Georgia Director of Elections, Richard
+Barron, stated that the tallied vote of over 93% of
+ballots were based on a “review [panel’s]”
+determination of the voter’s “intent”—not what the
+voter actually voted. Specifically, he stated that “so far
+we’ve scanned 113,130 ballots, we’ve adjudicated over
+106,000. . . . The only ballots that are adjudicated are
+if we have a ballot with a contest on it in which there’s
+some question as to how the computer reads it so that
+the vote review panel then determines voter intent.”10
+There is no way to know whether that vast number of
+ballots were accurately adjudicated in that short
+period of time to reflect the true vote.
+99. This astounding figure demonstrates
+how easy it is for election officials to use electronic
+voting systems to modify votes on a massive scale with
+no oversight. These figures, in and of themselves in
+this one sample, far exceeds the margin of votes
+separating the two candidates in Georgia.
+100. On November 9, 2021, a voting rights
+group, VoterGA, announced that 56 Georgia counties
+admitted that most or all of the images created
+10 https://www.c-span.org/video/?477819-1/fulton-countygeorgia-election-update (last visited Nov. 23, 2021) (from 0:20 through 1:21). 
+36
+automatically by the Dominion voting system for
+results tabulation have been destroyed, and that a
+total of 74 Georgia counties have been unable to
+produce all the original ballot images from the
+November 2020 election.
+101. For example, VoterGA sent an open
+records act request to Fulton County for an
+“[e]lectronic Copy of all original Election Day ballot
+images for the November 3rd, 2020 election.” The
+County responded:
+I recall our conversation and I appreciate you
+emailing me your requests. I can confirm that
+the County maintains no records which are
+responsive to your request. The answer is the
+same for both the request contained in this
+email as well as the email you just sent seeking
+“Electronic Copy of the approximately 315,000
+original In-Person Advance Voting ballot
+images for the November 3rd, 2020 election”.
+The County maintains nothing responsive.11
+102. Thus, Fulton County apparently
+destroyed over 350,000 ballot images—the only
+records which can show the authenticity of the ballot
+cast such as through the proof of date and time when
+cast based on metadata contained on the images.
+Paper ballots have no such evidence that proves their
+authenticity.
+103. The destruction of these election records
+violated 52 USC § 20701, which requires a 22-month
+11 See email from Steven Rosenberg, Fulton County Deputy
+County Attorney to Garland Favorito dated September 27, 2021
+(Tab 6).
+37
+retention period for such records, and O.C.G.A. § 21-
+2-73 which requires a 24-month retention period for
+such records.
+104. In addition, Fulton County is also
+missing 17,690 mail-in ballots, which alone far
+exceeds Biden’s margin of victory in Georgia.
+105. The response to VoterGA’s open records
+act request included written confirmation from Chris
+Harvey, then-Georgia Election Director, granting
+permission to erase in-person ballot images from the
+memory cards.12 The destruction of these election
+records violated 52 USC § 20701, and O.C.G.A. § 21-
+2-73 as described, supra.
+3. The Georgia Senate Election Law
+Study Subcommittee found
+numerous outcome determinative
+numbers of unlawful votes and
+concluded the election results “must
+be viewed as untrustworthy.”
+106. On December 17, 2020, Georgia State
+Senator William Ligon—the Chairman of the Election
+Law Study Subcommittee of the Georgia Standing
+Senate Judiciary Committee—issued a detailed
+report discussing a myriad of voting irregularities and
+potential fraud in the Georgia 2020 general election
+(the “Report”) (Tab 8). The Executive Summary states
+that “[t]he November 3, 2020 General Election (the
+‘Election’) was chaotic and any reported results must
+be viewed as untrustworthy”.
+12 See email from State Election Director Chris Harvey dated
+December 2, 2020 (Tab 7).
+38
+107. The Subcommittee unanimously
+approved the Report in a subsequent hearing on
+election fraud held on December 30, 2020. During that
+hearing investigating fraud, an expert on Dominion
+voting systems, Jovan Hutton Pulitzer, demonstrated
+in real-time that a Dominion poll pad could be hacked
+due to the fact that it was connected to the internet.
+108. On January 2, 2021, Sen. Ligon, sent
+then-President Trump a letter requesting a forensic
+audit of the Dominion voting machines and ballots
+under DHS Cyber Hunt and Incident Response Teams
+Act of 2019. In his letter, Senator Ligon based his
+request in part on the following:
+• The Dominion voting machines employed in
+Fulton County had an astounding 93.67% error
+rate in the scanning of ballots requiring some
+unknown “review panel” to “adjudicate” i.e.
+”determine” the voter’s intent in over 106,000
+ballots out of a total 113,130 ballots.
+• Tens of thousands of votes were switched from
+Trump to Biden in several Georgia counties in
+Georgia. For example, in Bibb County, Trump
+had 29,391 votes at 9:11 pm EST while
+simultaneously Biden had 17,218 votes.
+Minutes later at the next update, these vote
+numbers switched and Trump had 17,218 votes
+and Biden had 29,391 votes—a switch of 12,173
+votes in Biden’s favor.
+Letter, Sen. William Ligon, Georgia State Senate, to
+Donald J. Trump (Jan. 2, 2021) (Tab 9).
+39
+The State of Michigan’s electoral votes were
+unlawfully certified and counted.
+109. Michigan has 16 electoral votes, with a
+statewide vote tally of 2,649,852 for Mr. Trump and
+2,804,040 for Mr. Biden, a margin of 154,188 votes.
+110. The number of votes affected by the
+various constitutional violations exceeds the margin
+of votes dividing the candidates.
+1. The violations of Article II in
+Michigan resulted in outcomedeterminative numbers of unlawful
+votes.
+111. Michigan’s then-Secretary of State,
+Jocelyn Benson, without legislative approval,
+unilaterally abrogated Michigan election statutes
+related to absentee ballot applications and signature
+verification. Michigan’s legislature has not ratified
+these changes, and its election laws do not include a
+severability clause.
+112. As amended in 2018, the Michigan
+Constitution provides all registered voters the right to
+request and vote by an absentee ballot without giving
+a reason. MICH. CONST. art. 2, § 4.
+113. On May 19, 2020, however, Secretary
+Benson announced that her office would send
+unsolicited absentee-voter ballot applications by mail
+to all 7.7 million registered Michigan voters prior to
+the primary and general elections. Although her office
+repeatedly encouraged voters to vote absentee
+because of the COVID-19 pandemic, it did not ensure
+that Michigan’s election systems and procedures were
+adequate to ensure the accuracy and legality of the 
+40
+historic flood of mail-in votes. In fact, it did the
+opposite and did away with protections designed to
+deter voter fraud.
+114. Secretary Benson’s flooding of Michigan
+with millions of absentee ballot applications prior to
+the 2020 general election violated M.C.L. § 168.759(3).
+That statute limits the procedures for requesting an
+absentee ballot to three specified ways:
+An application for an absent voter ballot
+under this section may be made in any of
+the following ways:
+(a) By a written request signed by the voter.
+(b) On an absent voter ballot application
+form provided for that purpose by the clerk
+of the city or township.
+(c) On a federal postcard application.
+M.C.L. § 168.759(3) (emphasis added).
+115. The Michigan Legislature thus declined
+to include the Secretary of State as a means for
+distributing absentee ballot applications. Id. §
+168.759(3)(b). Under the statute’s plain language, the
+Legislature explicitly gave only local clerks the power
+to distribute absentee voter ballot applications. Id.
+116. Because the Legislature declined to
+explicitly include the Secretary of State as a vehicle
+for distributing absentee ballots applications,
+Secretary Benson lacked authority to distribute even
+a single absentee voter ballot application—much less
+the millions of absentee ballot applications Secretary
+Benson chose to flood across Michigan.
+117. Secretary Benson also violated Michigan
+law when she launched a program in June 2020 
+41
+allowing absentee ballots to be requested online,
+without signature verification as expressly required
+under Michigan law. The Michigan Legislature did
+not approve or authorize Secretary Benson’s
+unilateral actions.
+118. MCL § 168.759(4) states in relevant part:
+“An applicant for an absent voter ballot shall sign the
+application. Subject to section 761(2), a clerk or
+assistant clerk shall not deliver an absent voter ballot
+to an applicant who does not sign the application.”
+119. Further, MCL § 168.761(2) states in
+relevant part: “The qualified voter file must be used to
+determine the genuineness of a signature on an
+application for an absent voter ballot”, and if “the
+signatures do not agree sufficiently or [if] the
+signature is missing” the ballot must be rejected.
+120. On October 6, 2020, Secretary Benson
+issued “guidance” to local election clerks in the form
+of a document entitled “Absent Voter Ballot
+Processing: Signature Verification and Voter
+Notification Standards.” This document mirrored
+guidance Benson had previously issued. The stated
+purpose of this document was to “provide[ ] standards”
+for reviewing signatures, verifying signatures, and
+curing missing or mismatched signatures.
+121. Under the heading entitled “Procedures
+for Signature Verification,” the document states that
+signature review “begins with the presumption that”
+the signature on an absent voter ballot application or
+envelope is valid. Further, the document instructs
+clerks to, if there are “any redeeming qualities in the
+[absent voter] application or return envelope 
+42
+signature as compared to the signature on file, treat
+the signature as valid.”
+122. The section on signature-verification
+procedures repeats the notion that “clerks should
+presume that a voter’s [absent voter] application or
+envelope signature is his or her genuine signature, as
+there are several acceptable reasons that may cause
+an apparent mismatch.” Finally, the document
+concludes, that clerks “must perform their signature
+verification duties with the presumption that the
+voter’s [absent voter] application or envelope
+signature is his or her genuine signature.”
+123. On March 9, 2021, the Michigan Court of
+Claims ruled that Benson’s disregard of Michigan’s
+statutory signature verifications requirements and
+procedures in her instructions to Michigan’s election
+clerks were unlawful. Genetski v. Benson, Case No. 20-
+000216-MM, slip op. at 14 (Mich. Ct. Claims, March 9, 2021)
+(stating “the standards issued by defendant Benson
+on October 6, 2020, with respect to signaturematching requirements amounted to a ‘rule’ [and] is
+invalid.”) (Tab 10).
+124. Nonetheless, the damage caused by
+Benson’s unlawful disregard of Michigan’s statutory
+signature verifications requirements and procedures
+was done. In 2016 only 587,618 Michigan voters
+requested absentee ballots. In stark contrast, in 2020,
+3.2 million votes were cast by absentee ballot, about
+57% of total votes cast —and more than five times the
+number of ballots even requested in 2016.
+125. Secretary Benson’s unconstitutional
+modifications of Michigan’s election rules resulted in
+the distribution of millions of absentee ballot 
+43
+applications without verifying voter signatures as
+required by MCL §§ 168.759(4) and 168.761(2). This
+means that millions of absentee ballots were
+disseminated in violation of Michigan’s statutory
+signature-verification requirements. Democrats in
+Michigan voted by mail at a ratio of approximately
+two to one compared to Republican voters. Thus, Mr.
+Biden materially benefited from these
+unconstitutional changes to Michigan’s election law.
+126. In sum, the non-legislative modifications
+to Michigan’s election statutes, and other
+discrepancies, resulted in a number of constitutionally
+tainted votes that far exceeds the margin of voters
+separating the candidates in Michigan. Regardless of
+the number of votes that were affected by the
+unconstitutional modification of Michigan’s election
+rules, the non-legislative changes to the election rules
+violated the Electors Clause
+2. Election officials’ illegal acts in
+Wayne County resulted in outcome
+determinative numbers of unlawful
+votes.
+127. Michigan also requires that poll
+watchers and inspectors have access to vote counting
+and canvassing. M.C.L. §§ 168.674-.675.
+128. Michigan also has strict signature
+verification requirements for absentee ballots,
+including that the Elections Department place a
+written statement or stamp on each ballot envelope
+where the voter signature is placed, indicating that
+the voter signature was in fact checked and verified 
+44
+with the signature on file with the State. See MCL §
+168.765a(6).
+129. Local election officials in Wayne County
+made a conscious and express policy decision not to
+follow M.C.L. §§ 168.674-.675 for the opening,
+counting, and recording of absentee ballots. Wayne
+County made the policy decision to ignore Michigan’s
+statutory signature-verification requirements for
+absentee ballots. Mr. Biden received approximately
+587,074, or 68%, of the votes cast there compared to
+Mr. Trump’s receiving approximate 264,149, or
+30.59%, of the total vote. Thus, Mr. Biden materially
+benefited from these unconstitutional changes to
+Michigan’s election law.
+130. In addition, numerous poll challengers
+and an Election Department employee whistleblower
+have testified that the signature verification
+requirement was ignored in Wayne County. For
+example, Jesse Jacob, a decades-long City of Detroit
+employee assigned to work in the Elections
+Department for the 2020 election testified that:
+Absentee ballots that were received in the
+mail would have the voter’s signature on
+the envelope. While I was at the TCF
+Center, I was instructed not to look at any
+of the signatures on the absentee ballots,
+and I was instructed not to compare the
+signature on the absentee ballot with the
+signature on file.
+Affidavit of Jessy Jacob, at ¶15 (Tab 11).
+131. In fact, a poll challenger, Lisa Gage,
+testified that not a single one of the several hundred
+to a thousand ballot envelopes she observed had a 
+45
+written statement or stamp indicating the voter
+signature had been verified at the TCF Center in
+accordance with MCL § 168.765a(6).13
+132. The TCF was the only facility within
+Wayne County authorized to count ballots for the City
+of Detroit.
+133. In addition, a member of the Wayne
+County Board of Canvassers (“Canvassers Board”),
+William Hartman, determined that 71% of Detroit’s
+Absent Voter Counting Boards (“AVCBs”) were
+unbalanced—i.e., the number of people who checked
+in did not match the number of ballots cast—without
+explanation. Affidavit of William Hartman at ¶ 6 (Tab
+12).
+134. On November 17, 2020, the Canvassers
+Board deadlocked 2-2 over whether to certify the
+results of the presidential election based on numerous
+reports of fraud and unanswered material
+discrepancies in the county-wide election results. A
+few hours later, the Republican Board members
+reversed their decision and voted to certify the results
+after severe harassment, including threats of violence.
+See Affidavit of William Hartman at ¶¶ 18-19 (Tab
+12), and Affidavit of Monica Palmer at ¶¶ 27-28 (Tab
+13).
+135. The following day, the two Republican
+members of the Board rescinded their votes to certify
+the vote and signed affidavits alleging they were
+bullied and misled into approving election results and
+do not believe the votes should be certified until
+serious irregularities in Detroit votes are resolved.
+13 Affidavit of Lisa Gage ¶ 17 (Tab 14).
+46
+136. On February 5, 2021, a news outlet
+called The Gateway Pundit revealed video footage
+from security cameras at the TCF Center it had
+received the prior week in connection with an open
+records request.14 That video footage confirmed
+witness testimony that there were at least 50 mailbox
+bins of ballots unloaded at 3:30 am on November 4,
+2020, in the back of the TCF Center, well after the
+8:00 pm deadline for ballots cast. There were no poll
+watchers present nor was there any formal chain of
+custody observed to know when these ballots were
+cast or where the ballots came from.
+3. A “glitch” in electronic voting
+machines in Antrim County wrongly
+awarding 6,000 votes to Mr. Biden.
+137. Lastly, on November 4, 2020, Michigan
+election officials in Antrim County admitted that a
+purported “glitch” in Dominion voting machines
+caused 6,000 votes for Mr. Trump to be wrongly
+switched to Mr. Biden in just one county. Local
+officials discovered the so-called “glitch” after
+reportedly questioning Mr. Biden’s win in the heavily
+Republican area and manually checked the vote
+tabulation.
+14 Jim Hoft, Exclusive: The TCF Center Election Fraud – Newly
+Discovered Video Shows Late Night Deliveries of Tens of
+Thousands of Illegal Ballots 8 Hours After Deadline, THE
+GATEWAY PUNDIT, Feb. 5, 2021,
+https://www.thegatewaypundit.com/2021/02/exclusive-tcfcenter-election-fraud-newly-recovered-video-shows-late-nightdeliveries-tens-thousands-illegal-ballots-michigan-arena/ (last visited Nov. 23, 2021).
+47
+138. In Bailey v. Antrim County et al., Case
+No. 20-9238-CZ, cyber security expert, Benjamin R.
+Cotton, submitted an affidavit detailing his
+examination of, inter alia, the Dominion ICX system
+and the ES&S server used in the November 2020
+election. What he found was shocking.
+139. Specifically, Mr. Cotton found an IP
+address on the Dominion ICX machine that resolved
+to an address in Taiwan, and that the system was
+actively configured to communicate on a private
+network. Cotton concluded that “1) the device has
+been actively used for network communications, and
+2) that this device has communicated to public IP
+addresses not located in the United States.” Affidavit
+of Ben Cotton (Tab 15).
+The Commonwealth of Pennsylvania’s electoral
+votes were unlawfully certified and counted.
+140. Pennsylvania has 20 electoral votes,
+with a statewide vote tally of 3,377,654 for Mr. Trump
+and 3,458,229 for Mr. Biden, a margin of 80,575 votes.
+141. The number of illegal votes and votes
+affected by the various constitutional violations far
+exceeds the margin of votes separating the
+candidates.
+1. Pennsylvania’s voter registration
+system can be easily hacked and manipulated.
+142. Pennsylvania is one of a handful of
+states that allow third party entities some type of
+access to voter registration systems via an application
+programming interface (“API”). Most states and most
+countries prohibit access to sensitive election data but 
+48
+in Pennsylvania, third party organizations are not
+only given access to the Statewide Uniform Registry
+of Electors (“SURE”) system but they also have the
+ability to grant access to other “partner
+organizations.” The registration system is thus totally
+vulnerable to someone adding fake registrations or
+illegally modifying registration data.
+143. On December 13, 2019, the Pennsylvania
+Department of the Auditor General (“DAG”) issued a
+detailed report on its performance audit of the SURE
+system administered by the Pennsylvania
+Department of State (“DOS”). The DAG stated that
+the DOS obstructed its audit stating:
+DOS’ denial of access to critical documents
+and excessive redaction of documentation
+resulted in DAG being unable to fully
+achieve three of the eight audit objectives. .
+. . This sustained refusal to cooperate with
+our information requests was done without
+DOS providing any plausible justification
+for their noncooperation. Accordingly, DAG
+was unable to establish with any degree of
+reasonable assurance that the SURE
+system is secure and that Pennsylvania
+voter registration records are complete,
+accurate, and in compliance with applicable
+laws, regulations, and related guidelines.
+Letter, Eugene A. DePasquale, Pennsylvania Auditor
+General, to Tom Wolf, Governor, Commonwealth of
+Pennsylvania (Dec. 13, 2019) (Tab 22).
+144. The DAG’s warnings have proven true.
+For example, tens of thousands of voters were 
+49
+mysteriously added to the SURE system and
+backdated shortly before the November 2020 election.
+145. Specifically, the SURE system includes a
+unique ID number for each registered voter. That
+number is proceeded by a hyphenated county code.
+The February 1, 2021, voter roll (the “Full Voter
+Export” or “FVE”) contains 74,090 voters with the
+associated unique ID that have a registration date of
+April 6, 2020, or earlier—55,823 of these voters are
+recorded as having voted in 2020. However, the FVE
+dated April 6, 2020, has no record of these voters—
+meaning these purported 74,090 voters were
+inexplicably added to the SURE system and increased
+the voting population in the months leading up to the
+November 2020 election. These are not inactive
+voters. Inactive records are in the FVE and would
+have shown up in the April 6, 2020, FVE had they
+existed.
+2. Pennsylvania’s final results show
+49,141 more votes than voters and the
+Secretary of State unlawfully
+certified the Pennsylvania election
+results.
+146. Secretary Boockvar certified the election
+results on November 24, 2020. However, the SURE
+system, the official registrar of votes pursuant to 25
+PA. STAT. § 1222, reflected that there were a whopping
+784,752 more votes than voters.
+147. Pennsylvania law expressly prohibits
+certifying until after the investigation of an over-vote:
+If . . . it shall appear that the total vote
+returned for any candidate or candidates for 
+50
+the same office or nomination . . . exceeds the
+total number of persons who voted in said
+election district or the total number of
+ballots cast therein . . . such excess shall be
+deemed a discrepancy and palpable error,
+and shall be investigated by the return
+board, and no votes shall be recorded from
+such district until such investigation shall
+be had . . . .
+25 PA. STAT. § 3154 (emphasis added).
+148. No investigation of the 784,752 votes
+before certification, as required under 25 PA. STAT. §
+3154, was undertaken.
+149. On December 28, 2020, Boockvar tried
+to excuse the massive number of extra votes compared
+to the number of voters—still over 205,000 as of that
+date—by issuing a press release stating “[a]t this
+time, there are still a few counties that have not
+completed uploading their vote histories to the SURE
+system.”
+150. However, as of February 1, 2021, all
+Pennsylvania counties closed out their elections in the
+SURE system—meaning all counties had completed
+updating the voter information for the November 2020
+election. The SURE system reflects that there are still
+49,141 more ballots cast included in the certified vote
+tally, than there were voters in the November 2020
+election. No explanation for this gross discrepancy has
+ever been given by the State.
+151. As stated above, Boockvar’s excuse that
+not all counties had finished uploading their results to
+the SURE system is now moot. That leaves the fact
+that there are at least 49,141 more confirmed votes 
+51
+than voters demonstrating the stark illegality of the
+Pennsylvania election.
+152. In Philadelphia County alone, 792 out of
+1703 precincts (also called “districts”) had more votes
+for President than voters who participated in the
+election. Those 792 precincts had a total of 346,484
+votes for President. In those 792 precincts, Biden
+received 286,014 votes and Trump received 57,253
+votes, for a net margin of 228,761 votes for Biden.
+Under 25 PA. STAT. § 3154, “no votes shall be recorded
+from such district until such investigation shall be
+had . . . .” No investigation into these discrepancies
+has been conducted.
+153. Biden’s margin of 228,761 votes in those
+762 precincts, none of which should have been
+recorded, far exceeds his margin of victory in
+Pennsylvania.
+154. In Alleghany County, 767 out of 1,323
+precincts had more votes for President than voters
+who participated in the election. In those 767
+precincts, Biden received 246,446 votes and Trump
+received 153,060 votes, for a net margin of 93,386
+votes for Biden—which alone exceeds Biden’s margin
+of victory. Combined with Philadelphia County, Biden
+received 322,147 more votes than Trump. 25 PA. STAT.
+§ 3154 prohibited from being counted until these
+discrepancies were resolved. Boockvar’s certification
+of the vote 24, 2020 violated 25 PA. STAT. § 3154, and
+is therefore void.
+52
+3. Pennsylvania misled this Court and
+continued to illegally count tens of
+thousands of ballots received after
+November 3, 2020.
+155. On September 17, 2020, the
+Pennsylvania Supreme Court voted 4-3 that all mail-in 
+ballots postmarked by 8:00 on Election Day, and
+received by 5:00 p.m. November 6, 2020, even those
+lacking a postmark or bearing an illegible postmark,
+would be counted. Pennsylvania Democratic Party v.
+Boockvar, 238 A.3d 345 (Pa. 2020).
+156. On October 19, 2020, this Court split 4-4
+on whether to stay that decision by Pennsylvania
+Supreme Court leaving that unconstitutional decision
+to stand.
+157. After Justice Barrett’s confirmation, the
+Republican Party sought expedited relief to resolve
+this issue before the November 2020 election. On
+October 28, 2020, in a classic bait and switch,
+Pennsylvania used guidance from its Secretary of
+State that Pennsylvania would segregate potentially
+unlawful ballots to argue that this Court should not
+expedite review. See Republican Party of Pa. v.
+Boockvar, 141 S. Ct. 1, 2 (2020) (“we have been
+informed by the Pennsylvania Attorney General that
+the Secretary of the Commonwealth issued guidance
+today directing county boards of elections to segregate
+[late-arriving] ballots”) (Alito, J., concurring) The
+Court would reasonably rely on such a representation.
+158. Before the ink was dry on that decision,
+however, Pennsylvania changed that guidance,
+breaking the State’s promise to this Court. On
+November 6, 2020, Justice Alito ordered all county 
+53
+boards of election to comply with the guidance “that
+all ballots received by mail after 8:00 p.m. on
+November 3 be segregated and . . . if counted, be
+counted separately.” Republican Party v. Boockvar,
+208 L.Ed.2d 293, 294 (U.S. 2020) (“The application
+received today also informs the Court that neither the
+applicant nor the Secretary has been able to verify
+that all boards are complying with the Secretary’s
+guidance, which, it is alleged, is not legally binding on
+them.”) (Alito, J., Circuit Justice).
+159. Before Justice Alito’s order dated
+November 6, 2020, Pennsylvania illegally counted at
+least 61,855 illegal ballots which were received after
+the statutory 8:00 pm November 3, 2020, deadline by
+virtue of the fact that Pennsylvania did not segregate
+those ballots. The Department of State’s records
+reflect that: 50,285 ballots were received between
+November 4 through November 6, 2020; 11,570 ballots
+were received between November 7 through
+November 11, 2020; and 10,038 were received after
+November 11, 2020. Pennsylvania was still counting
+ballots after November 17, 2020.15
+160. Secretary Boockvar claimed that only
+about 10,000 ballots were counted after 8 p.m. on
+November 3, thereby admitting ballots were illegally
+counted, but she offered no proof that only 10,000
+ballots were illegally counted.
+15 https://www.media.pa.gov/pages/statedetails.aspx?newsid=434 (last visited Nov. 23, 2021)
+54
+4. The Pennsylvania Secretary of State
+unconstitutionally threw out state
+election integrity laws governing
+mail-in ballots.
+161. In 2016, Pennsylvania received 266,208
+mail-in ballots; 2,534 of them were rejected (.95%).
+16
+However, in 2020, Pennsylvania received 2,623,867
+mail-in ballots—nearly 10 times the number of mail-in
+ballots compared to 2016. Despite this flood of
+ballots, the reported rejection rate was just 1.3% with
+just 34,171 ballots rejected.17 As explained below, this
+vastly larger volume of mail-in ballots was treated in
+an unconstitutionally modified manner that included:
+(1) doing away with the Pennsylvania’s signature
+verification requirements; and (2) blocking poll
+watchers in Philadelphia and Allegheny Counties in
+violation of State law.
+162. The blatant disregard of statutory law
+renders all mail-in ballots constitutionally tainted
+and should not have formed the basis for appointing
+or certifying Pennsylvania’s presidential electors to
+the Electoral College.
+163. Specifically, Pennsylvania’s then Secretary of State, 
+Kathy Boockvar, without legislative approval, unilaterally 
+abrogated several Pennsylvania statutes requiring signature
+verification for absentee or mail-in ballots.
+16 U.S. Election Assistance Commission, Report to Congress,
+Election Administration and Voting Survey: 2016 Comprehensive
+Report, at 24 (2017).
+17 U.S. Election Assistance Commission, Report to Congress
+Election Administration and Voting Survey: 2020
+Comprehensive Report, at 36 (2021).
+55
+Pennsylvania’s legislature has not ratified these
+changes, and the legislation did not include a
+severability clause.
+164. On August 7, 2020, the League of Women
+Voters of Pennsylvania and others filed a complaint
+against Secretary Boockvar and other local election
+officials, seeking “a declaratory judgment that
+Pennsylvania existing signature verification
+procedures for mail-in voting” were unlawful for a
+number of reasons. League of Women Voters of
+Pennsylvania v. Boockvar, No. 2:20-cv-03850-PBT,
+(E.D. Pa. Aug. 7, 2020).
+165. The Pennsylvania Department of State
+quickly settled with the plaintiffs, issuing revised
+guidance on September 11, 2020, stating in relevant
+part: “The Pennsylvania Election Code does not
+authorize the county board of elections to set aside
+returned absentee or mail-in ballots based solely on
+signature analysis by the county board of elections.”
+166. The Pennsylvania Department of State’s
+guidance directly contradicted Pennsylvania law.
+First, Pennsylvania Election Code mandates that, for
+non-disabled and non-military voters, all applications
+for an absentee or mail-in ballot “shall be signed by
+the applicant.” 25 PA. STAT. §§ 3146.2(d) & 3150.12(c).
+Second, Pennsylvania’s voter signature verification
+requirements are expressly set forth at 25 PA. STAT.
+350(a.3)(1)-(2) and § 3146.8(g)(3)-(7).
+167. The Pennsylvania Department of State’s
+guidance unconstitutionally did away with
+Pennsylvania’s statutory signature verification
+requirements. Approximately 70% of the requests for
+absentee ballots were from Democrats and 25% from 
+56
+Republicans. Thus, this unconstitutional abrogation
+of state election law greatly inured to Mr. Biden’s
+benefit.
+168. In addition, in 2019, Pennsylvania’s
+legislature enacted bipartisan election reforms, 2019
+Pa. Legis. Serv. Act 2019-77, that set inter alia a
+deadline of 8:00 p.m. on election day for a county
+board of elections to receive a mail-in ballot. 25 PA.
+STAT. §§ 3146.6(c), 3150.16(c). Acting under a
+generally worded clause that “Elections shall be free
+and equal,” PA. CONST. art. I, § 5, cl. 1, a 4-3 majority
+of Pennsylvania’s Supreme Court in Pa. Democratic
+Party v. Boockvar, 238 A.3d 345 (Pa. 2020), extended
+that deadline to three days after Election Day and
+adopted a presumption that even non-postmarked
+ballots were presumed timely.
+169. Absentee and mail-in ballots in
+Pennsylvania were thus evaluated under an illegal
+standard regarding signature verification. It is now
+impossible to determine which ballots were properly
+cast and which ballots were not.
+170. In addition, on December 4, 2020, fifteen
+members of the Pennsylvania House of
+Representatives led by Rep. Francis X. Ryan issued a
+report to Congressman Scott Perry (the “Ryan
+Report”) (Tab 16) stating that “[t]he general election
+of 2020 in Pennsylvania was fraught with
+inconsistencies, documented irregularities and
+improprieties associated with mail-in balloting, precanvassing, and canvassing that the reliability of the
+mail-in votes in the Commonwealth of Pennsylvania
+is impossible to rely upon.”
+57
+171. The Ryan Report’s findings are startling,
+including:
+• Ballots with NO MAILED date. That total is
+9,005.
+• Ballots Returned on or BEFORE the Mailed
+Date. That total is 58,221.
+• Ballots Returned one day after Mailed Date.
+That total is 51,200.
+Id. at 5.
+172. These nonsensical numbers alone total
+118,426 ballots and exceed Mr. Biden’s margin of
+80,555 votes over Mr. Trump. But these discrepancies
+pale in comparison to the discrepancies in
+Pennsylvania’s reported data concerning the number
+of mail-in ballots distributed to the populace—now no
+longer subject to legislatively mandated signature
+verification requirements.
+173. These stunning figures illustrate the
+out-of-control nature of Pennsylvania’s mail-in
+balloting scheme. Democrats submitted mail-in
+ballots at more than two times the rate of
+Republicans.
+The State of Wisconsin’s electoral voters were
+unlawfully certified and counted.
+174. Wisconsin has 10 electoral votes. Mr.
+Trump received 1,610,184 votes and Mr. Biden
+received 1,630,866 votes, a margin of 20,682 votes.
+175. The number of illegal votes and votes
+affected by the various constitutional violations far
+exceeds the margin of votes separating the
+candidates.
+58
+1. The Wisconsin Election Commission
+has obstructed investigations into
+the November 2020 election.
+176. According to the Wisconsin Legislative
+Audit Bureau (“LAB”) Report 21-19 (the “LAB
+Report”) (Tab 17), in the 2020 presidential election,
+1,963,954 absentee ballots were cast, 59.6 percent of
+all ballots cast compared to 819,316 absentee ballots
+cast in 2016, or 27.3 percent of all ballots cast. Id. at
+38.
+177. Wisconsin statutes guard against fraud
+in mail-in absentee ballots: “[V]oting by absentee
+ballot is a privilege exercised wholly outside the
+traditional safeguards of the polling place. The
+legislature finds that the privilege of voting by
+absentee ballot must be carefully regulated to prevent
+the potential for fraud or abuse[.]” WISC. STAT. §
+6.84(1).
+178. Leading up to the November 2020
+election, in direct contravention of Wisconsin law, the
+Wisconsin Elections Commission (“WEC”) and other
+local officials unconstitutionally weakened or
+completely abrogated Wisconsin election laws—each
+time taking steps that did away with established
+security procedures put in place by the Wisconsin
+legislature to ensure absentee ballot integrity.
+179. The WEC is now attempting to block any
+investigations into the widespread voter fraud in
+Wisconsin. In March 2021, the Wisconsin legislature
+voted to commence an investigation into election
+irregularities in the November 2020 election. In July
+2021, Wisconsin Speaker of the Assembly Robin Vos 
+59
+appointed former Wisconsin Supreme Court Justice
+Michael Gableman, as special counsel.
+180. After former Justice Gableman issued
+subpoenas to state and local election officials, the
+WEC, represented by the State Attorney General’s
+office, sought a temporary restraining order against
+Speaker Vos, former Justice Gableman, and others
+seeking to block two subpoenas issued to the WEC and
+Elections Commission Administrator Meagan Wolfe
+claiming the subpoenas were part “of an unlawful
+investigation focused on debunked theories about the
+November 2020 Election.” The WEC spoke too fast.
+181. In October 2021, the nonpartisan LAB,
+and the Racine County Sheriff, revealed lengthy
+investigations that confirmed the WEC’s massive
+violations of Wisconsin election law, including at least
+one felony and three misdemeanors caused by their
+illegal instructions to disregard Wisconsin election
+laws designed to ensure that fake ballots did not affect
+the integrity of the vote.
+182. Indeed, Racine County found that the
+WEC knowingly “shattered” at least one statute likely
+causing fraudulent votes in nursing homes in all 72
+counties across the State of Wisconsin.18
+183. The LAB Report detailed the WEC’s and
+other elections officials’ lack of cooperation noting that
+the City of Madison refused to let the LAB auditors
+handle absentee ballots despite their county (Dane
+County) having the highest percentage of absentee
+ballots in the state at 74.4 percent of ballots. [LAB]
+18 The PowerPoint presentation used by the Sheriff is attached
+at Tab 18. 
+60
+Report at 6] The LAB also stated that county clerks
+for Milwaukee County and the Town of Little Suamic
+refused access to their ballots. Combined, these areas
+accounted for 623,700 of the 3.3 million ballots cast in
+the November 2020 election. (18.9 percent). Lab
+Report at 7. The LAB also noted that three WEC
+members refused to speak with the auditors (the audit
+doesn’t mention which ones, but three are Democrats).
+Id. at 5.
+184. After the Racine County Sheriff’s Office
+released their findings, Wisconsin lawmakers,
+including Assembly Speaker Robin Vos, called on the
+Elections Commission Administrator Meagan Wolfe
+to resign.
+2. The Racine County Sheriff found the
+WEC committed a felony and three
+misdemeanors by encouraging voter fraud in nursing homes
+185. On October 28, 2021, the Racine County,
+Wisconsin Sheriff held a press conference and laid out
+the case of the WEC’s criminal election fraud during
+the 2020 election related to the abuse of voters
+confined to nursing homes and assisted living
+facilities.
+186. The Sheriff’s investigators discovered
+that the WEC expressly discussed that their proposed
+conduct for the 2020 election would violate state law,
+and yet they decided to do it anyway, and
+memorialized their decision in letters disseminated to
+every single county clerk’s office in Wisconsin. As
+such, the Sheriff concluded members of the WEC 
+61
+committed at least one felony and three misdemeanor
+crimes.
+187. Specifically, the Sheriff commenced an
+investigation in early 2021, after a complaint by a
+nursing home resident’s daughter that her dementia
+suffering mother cast a vote that she was entirely
+incompetent to make. An eight-month investigation
+the Sheriff’s investigation discovered, inter alia, that
+the WEC sent nursing homes across the state letters
+March 12, 2020, June 24, 2020, and September 25,
+2020, stating that “Municipalities shall not use the
+Special Voting Deputy process”—a key requirement
+under WISC. STAT. § 6.875(4)(a) to ensure that nursing
+home residents are not taken advantage to cast false
+ballots—and should instead mail the absentee ballots.
+188. The investigation discovered that at that
+nursing facility about 10 residents would normally
+vote in a presidential election cycle but in 2020 42
+residents voted. Though the focus of the Sheriff’s
+investigation was on the WEC’s clear orders to violate
+Wisconsin election law, the Sheriff noted seven other
+families also said their family members were not
+competent to cast their votes—and that all of these
+eight incompetent patients last voted in 2012.
+189. The Sheriff stated the “election statute
+was in fact not just broken, but shattered” by the WEC
+in all 72 counties across the State of Wisconsin. As a
+result of WEC’s clear violation of the law, as many as
+50,000 fraudulent ballots may have been cast by
+incompetent nursing home residents.
+62
+3. The WEC’s and other officials illegal
+use of drop boxes in violation of
+Wisconsin law
+190. The WEC undertook a campaign to
+position hundreds of drop boxes to collect absentee
+ballots—including the use of unmanned drop boxes.
+Wisconsin Elections Commission Memoranda, To: All
+Wisconsin Election Officials, at 3 (Aug. 19, 2020) (Tab
+23).
+191. The mayors of Wisconsin’s five largest
+cities—Green Bay, Kenosha, Madison, Milwaukee,
+and Racine, which all have Democrat majorities—
+joined in this effort, and together, developed a plan to
+use purportedly “secure drop-boxes to facilitate the
+return of absentee ballots.” Wisconsin Safe Voting
+Plan 2020 Submitted to the Center for Tech & Civic
+Life, June 15, 2020, by the Mayors of Madison,
+Milwaukee, Racine, Kenosha and Green Bay, at 4
+(Tab 24).
+192. The use of any drop box—whether
+manned or unmanned—is directly prohibited by
+Wisconsin statute. The Wisconsin legislature
+specifically described in the Election Code “Alternate
+absentee ballot site[s]” and detailed the procedure by
+which the governing body of a municipality may
+designate a site or sites for the delivery of absentee
+ballots “other than the office of the municipal clerk or
+board of election commissioners as the location from
+which electors of the municipality may request and
+vote absentee ballots and to which voted absentee
+ballots shall be returned by electors for any election.”
+WIS. STAT. 6.855(1).
+63
+193. Any alternate absentee ballot site “shall
+be staffed by the municipal clerk or the executive
+director of the board of election commissioners, or
+employees of the clerk or the board of election
+commissioners.” WIS. STAT. 6.855(3). Likewise, WIS.
+STAT. 7.15(2m) provides, “[i]n a municipality in which
+the governing body has elected to establish an
+alternate absentee ballot site under s. 6.855, the
+municipal clerk shall operate such site as though it
+were his or her office for absentee ballot purposes and
+shall ensure that such site is adequately staffed.”
+194. Thus, the unmanned absentee ballot
+drop-off sites are prohibited by the Wisconsin
+Legislature as they do not comply with Wisconsin law
+expressly defining “[a]lternate absentee ballot site[s].”
+WIS. STAT. 6.855(1), (3).
+195. In addition, the use of drop boxes for the
+collection of absentee ballots, positioned
+predominantly in Wisconsin’s largest cities, is directly
+contrary to Wisconsin law providing that absentee
+ballots may only be “mailed by the elector, or delivered
+in person to the municipal clerk issuing the ballot or
+ballots.” WIS. STAT. § 6.87(4)(b)1 (emphasis added).
+196. The fact that other methods of delivering
+absentee ballots, such as through unmanned drop
+boxes, are not permitted is underscored by WIS. STAT.
+§ 6.87(6) which mandates that, “[a]ny ballot not
+mailed or delivered as provided in this subsection may
+not be counted.” Likewise, WIS. STAT. § 6.84(2)
+underscores this point, providing that WIS. STAT. §
+6.87(6) “shall be construed as mandatory.” The
+provision continues—“Ballots cast in contravention of
+the procedures specified in those provisions may not 
+64
+be counted. Ballots counted in contravention of the
+procedures specified in those provisions may not be
+included in the certified result of any election.” WIS.
+STAT. § 6.84(2) (emphasis added).
+197. Incredibly, the rejection rate for the
+1,963,954 absentee ballots cast in the November 2020
+election plummeted to .217%, or 4,270 rejected ballots,
+compared to the rejection rate in November 2016
+election of 1.35% when there just 819,316 absentee
+ballots cast. The rejection rate in 2016 was more than
+six times greater than in 2020.
+4. The WEC encouraged voters to illegally declare themselves
+“indefinitely confined” thereby avoiding ballot security
+requirements
+198. The WEC and local election officials also
+took it upon themselves to encourage voters to
+unlawfully declare themselves “indefinitely
+confined”—which under Wisconsin law allows the
+voter to avoid security measures like signature
+verification and photo ID requirements.
+199. Specifically, registering to vote by
+absentee ballot requires photo identification, except
+for those who register as “indefinitely confined” or
+“hospitalized.” WISC. STAT. § 6.86(2)(a), (3)(a).
+Registering for indefinite confinement requires
+certifying confinement “because of age, physical
+illness or infirmity or [because the voter] is disabled
+for an indefinite period.” Id. § 6.86(2)(a). Should
+indefinite confinement cease, the voter must notify 
+65
+the county clerk, id., who must remove the voter from
+indefinite-confinement status. Id. § 6.86(2)(b).
+200. Wisconsin election procedures for voting
+absentee based on indefinite confinement enable the
+voter to avoid the photo ID requirement and signature
+requirement. Id. § 6.86(1)(ag)/(3)(a)(2).
+201. On March 25, 2020, in clear violation of
+Wisconsin law, Dane County Clerk Scott McDonnell
+and Milwaukee County Clerk George Christensen
+both issued guidance indicating that all voters should
+mark themselves as “indefinitely confined” because of
+the COVID-19 pandemic.
+202. Believing this to be an attempt to
+circumvent Wisconsin’s strict voter ID laws, the
+Republican Party of Wisconsin petitioned the
+Wisconsin Supreme Court to intervene. On March 31,
+2020, the Wisconsin Supreme Court unanimously
+confirmed that the clerks’ “advice was legally
+incorrect” and potentially dangerous because “voters
+may be misled to exercise their right to vote in ways
+that are inconsistent with WISC. STAT. § 6.86(2).”
+203. On May 13, 2020, the Administrator of
+WEC issued a directive to the Wisconsin clerks
+prohibiting removal of voters from the registry for
+indefinite-confinement status if the voter is no longer
+“indefinitely confined.”
+204. The WEC’s directive violated Wisconsin
+law. WISC. STAT. § 6.86(2)(a) specifically provides that
+“any [indefinitely confined] elector [who] is no longer
+indefinitely confined … shall so notify the municipal
+clerk.” WISC. STAT. § 6.86(2)(b) further provides that
+the municipal clerk “shall remove the name of any
+other elector from the list upon request of the elector 
+66
+or upon receipt of reliable information that an elector
+no longer qualifies for the service.”
+205. On December 16, 2020, the Wisconsin
+Supreme Court ruled that Wisconsin officials,
+including Governor Evers, unlawfully told Wisconsin
+voters to declare themselves “indefinitely confined”—
+thereby avoiding signature and photo ID
+requirements. See Jefferson v. Dane County, 394 Wis.
+2d 602, 951 N.W.2d 556 (Wis. 2020). Given the near
+fourfold increase in the use of this classification from
+2016 to 2020, tens of thousands of these ballots could
+be illegal. The vast majority of the more than 216,000
+voters classified as “indefinitely confined” were from
+heavily Democrat areas, thereby materially and
+illegally, benefited Mr. Biden.
+206. The LAB found that according to
+statistics kept by the WEC, nearly 220,404 voters said
+they were indefinitely confined in the 2020 election,
+including 169,901 individuals (77.1 percent) who
+indicated for the first time that they were indefinitely
+confined. [LAB Report at 50]
+207. Moreover, according to WEC’s data,
+48,554 of those first time individuals (22.0 percent)
+had not previously voted by methods that required
+them to have provided photo identification or did not
+have photo identifications on file with clerks. [LAB
+51]. Thus, at a minimum there was zero verification
+that these 48,554 voters were who they said they were
+or were even real voters.
+67
+5. The LAB found that 45,665 voters
+used identification to register that
+did not match the records on file
+208. According to the LAB Report, in 2020,
+957,977 Wisconsinites registered to be a new voter. Of
+that figure, 45,665 new voters registered with driver’s
+license information that did not match DMV records
+or 4.8% of registrants. Of the 45,665 total nonmatches, 
+63.1 percent were from a name non-match,
+meaning the name submitted by the new voter on the
+ballot application did not match the name on file at
+the DOT. Thus, at a minimum there was zero
+verification that these 45,665 voters were who they
+said they were or were even real voters.
+6. The Office of the Special Counsel’s
+findings of illegal votes in its First
+Interim Report.
+209. In the Summer of 2021, the Wisconsin
+State Assembly established a new office, the Office of
+the Special Counsel, to investigate the November
+2020 election.
+210. On November 10, 2021, the Office of the
+Special Counsel delivered its First Interim Report to
+the Wisconsin State Assembly. First Interim Rept.,
+Wisconsin Office of the Special Counsel (Nov. 10,
+2021) (the “Report”) (Tab 19).
+211. The Office of the Special Counsel found
+that many of the “safeguards mandated for the
+protection of honest absentee ballots” were “abrogated
+by WEC” including “the illegal mass self-certification
+of individuals as ‘indefinitely confined’ under the
+statute, a category which enables a voter to evade 
+68
+state voter ID requirements, but which is intended to
+apply to physically or physiologically immobile
+residents confined to their home because of their
+condition.” Id. at 18.
+212. Another issue identified by the Office of
+the Special Counsel are “Democracy in the Park”
+events held prior to the election to harvest absentee
+ballots in Madison. The Report states “[w]hile this
+Office draws no conclusions, we possess evidence that
+the events, which occurred on September 26 and
+October 3, 2020, involved numerous possible
+violations of state law, calling into question the
+validity of over 17,000 absentee ballots. Id. at 19.
+213. The Report also identified the Racine
+County Sheriff’s referral of criminal charges against
+the WEC for violations of Wisconsin’s laws designed
+to elderly voters from being taken advantage of in
+casting votes. The Report states:
+This Office has evidence that WEC and
+some clerks instructed residential care
+employees to act in a manner prohibited by
+law, collecting and assisting in completing
+ballots for individuals in these group
+facilities, including those with dementia.
+This led to record-high voting by
+individuals who had not voted for
+nearly a decade and may have lacked
+the cognitive ability to vote.
+Id. at 21 (emphasis added).
+214. The Office of the Special Counsel also
+identified that the WisVote (SVRS) system, the
+statewide system that enables clerks to track
+absentee ballot requests and includes highly sensitive 
+69
+personal information, is not secure even though WEC
+guidance requires it to be subject to a high level of
+security. The Report states that “there is already some
+evidence of unauthorized access to this database.” Id.
+at 24.
+7. Democrat operatives were given
+access to “hidden” networks
+connecting “sensitive machines” at
+the ballot tabulation center in Green
+Bay, WI
+215. In Wisconsin, Dominion machines that
+were not supposed to be connected to the internet
+were in fact connected to a “hidden” Wi-Fi network
+during voting.19
+216. Specifically, Michael Spitzer Rubenstein, 
+a Democrat political operative, was given
+internet access to a hidden Wi-Fi network at the
+Wisconsin election center where votes were being
+counted. M.D. Kittle, Democrats’ Operative Got Secret
+Internet Connection at Wisconsin Election Center,
+Emails Show, DAILY SIGNAL, Mar. 23, 2021.20 Spitzer 
+Rubenstein received an email from Trent James,
+director of event technology at Green Bay’s Central
+Count location, which stated, “One SSID [for a Wi-Fi
+network] will be hidden and it’s: 2020vote. There will
+
+19 M. D. Kittle, EMAILS: GREEN BAY’S ‘HIDDEN’
+ELECTION NETWORKS, WISCONSIN SPOTLIGHT, Mar. 21, 2021,
+https://wisconsinspotlight.com/emails-green-bays-hiddenelection-networks/ (last visited Nov. 23, 2021).
+20 https://www.dailysignal.com/2021/03/23/democratsoperative-got-secret-internet-connection-at-wisconsin-electioncenter-emails-show/ (last visited Nov. 23, 2021).
+70
+be no passwords or splash page for this one and it
+should only be used for the sensitive machines that
+need to be connected to the internet.” Id. Four other
+individuals were copied on the email. Id.
+COUNT I: ELECTORS CLAUSE
+217. Plaintiff State repeats and re-alleges the
+allegations above, as if fully set forth herein.
+218. The Electors Clause of Article II, Section
+1, Clause 2, of the Constitution makes clear that only
+the legislatures of the States are permitted to
+determine the rules for appointing presidential
+electors. The pertinent rules here are the state
+election statutes, specifically those relevant to the
+presidential election.
+219. Non-legislative actors lack authority to
+amend or nullify election statutes. Bush II, 531 U.S.
+at 104 (quoted supra).
+220. Under Heckler v. Chaney, 470 U.S. 821,
+833 n.4 (1985), conscious and express executive
+policies—even if unwritten—to nullify statutes or to
+abdicate statutory responsibilities are reviewable to
+the same extent as if the policies had been written or
+adopted. Thus, conscious and express actions by State
+or local election officials to nullify or ignore
+requirements of election statutes violate the Electors
+Clause to the same extent as formal modifications by
+judicial officers or State executive officers.
+221. The foregoing actions constitute non-legislative 
+changes to State election law by executive
+branch State election officials, or by judicial officials,
+in Defendant States Pennsylvania, Georgia, 
+71
+Michigan, Wisconsin, and Arizona in violation of the
+Electors Clause.
+222. Electors appointed to the Electoral
+College in violation of the Electors Clause cannot cast
+constitutionally valid votes for the office of President.
+
+COUNT II: DUE PROCESS
+223. Plaintiff State repeats and re-alleges the
+allegations above, as if fully set forth herein.
+224. When election practices reach “the point
+of patent and fundamental unfairness,” the integrity
+of the election itself violates substantive due process.
+Griffin v. Burns, 570 F.2d 1065, 1077 (1st Cir. 1978);
+Duncan v. Poythress, 657 F.2d 691, 702 (5th Cir.
+1981); Florida State Conference of N.A.A.C.P. v.
+Browning, 522 F.3d 1153, 1183-84 (11th Cir. 2008);
+Roe v. State of Ala. By & Through Evans, 43 F.3d 574,
+580-82 (11th Cir. 1995); Roe v. State of Ala., 68 F.3d
+404, 407 (11th Cir. 1995); Marks v. Stinson, 19 F. 3d
+873, 878 (3rd Cir. 1994).
+225. Under this Court’s precedents on procedural due 
+process, not only intentional failure to follow
+election law as enacted by a State’s legislature but
+also random and unauthorized acts by state election
+officials and their designees in local government can
+violate the Due Process Clause. Parratt v. Taylor, 451
+U.S. 527, 537-41 (1981), overruled in part on other
+grounds by Daniels v. Williams, 474 U.S. 327, 330-31
+(1986); Hudson v. Palmer, 468 U.S. 517, 532 (1984).
+The difference between intentional acts and random
+and unauthorized acts is the degree of pre-deprivation
+review.
+72
+226. Defendant States acted
+unconstitutionally to lower their election standards—
+including to allow invalid ballots to be counted and
+valid ballots to not be counted—with the express
+intent to favor their candidate for President and to
+alter the outcome of the 2020 election. In many
+instances these actions occurred in areas having a
+history of election fraud.
+227. The foregoing actions constitute
+intentional violations of State election law by State
+election officials and their designees in Defendant
+States Pennsylvania, Georgia, Michigan, Wisconsin,
+and Arizona in violation of the Due Process Clause.
+COUNT III: GUARANTEE CLAUSE
+228. Plaintiff State repeats and re-alleges the
+allegations above, as if fully set forth herein.
+229. The Guarantee Clause provides that
+“[t]he United States shall guarantee to every State in
+this Union a Republican Form of Government.” U.S.
+CONST. art. IV, cl. 1.
+230. Although this Court dismissed Texas v.
+Pennsylvania, No. 22O155 (U.S.), citing a lack of
+standing, Texas v. Pennsylvania, 141 S.Ct. 1230
+(2020) (“Texas has not demonstrated a judicially
+cognizable interest in the manner in which another
+State conducts its elections.”), the United States has
+parens patriae standing to challenge the manner in
+which states conduct their elections: “Nor does a State
+have standing as the parent of its citizens to invoke
+these constitutional provisions against the Federal
+Government, the ultimate parens patriae of every
+American citizen.” South Carolina v. Katzenbach, 383 
+73
+U.S. 301, 324 (1966). The failure to pursue the United
+States’ meritorious claim violates the Guarantee
+Clause.
+231. The United States and the Officer
+Defendants have been aware of the constitutional
+violations and facts at issue in this action and have
+not acted either to avoid or to remedy these violations.
+232. The foregoing actions violate the
+Guarantee Clause.
+COUNT IV: TAKE CARE CLAUSE
+233. Plaintiff State repeats and re-alleges the
+allegations above, as if fully set forth herein.
+234. The Take Care Clause provides that
+“[the President] shall take Care that the Laws be
+faithfully executed.” U.S. CONST. art. II, § 3, cl. 5.
+235. The President, Attorney General, and
+Vice President have been aware of the constitutional
+violations and facts at issue in this action and have
+not acted either to avoid or to remedy these violations.
+236. The foregoing actions violate the Take
+Care Clause.
+
+PRAYER FOR RELIEF
+WHEREFORE, the Plaintiff State respectfully
+requests that this Court issue the following relief:
+1. Declare that Defendant States
+administered the November 2020 election in violation
+of the Electors Clause and the Fourteenth
+Amendment of the U.S. Constitution.
+2. Declare that the United States and
+Officer Defendants violated the Guarantee Clause
+and the Take Care Clause with respect to allowing the 
+74
+foregoing constitutional violations by the Defendant
+States in administering the November 2020 election.
+3. Declare that the Defendant States’
+certification of the November 2020 election results
+and of presidential electors on or about December 14,
+2020, violated the Electors Clause and the Fourteenth
+Amendment of the U.S. Constitution and vacate those
+certifications.
+4. Declare that the Defendant States’
+certification of the November 2020 election results
+and of presidential electors on or about December 14,
+2020, violated the Electors Clause and the Fourteenth
+Amendment of the U.S. Constitution and vacate those
+certifications.
+5. Declare that the United States violated
+the Guarantee Clause in allowing the November 2020
+election to proceed on the basis of the unconstitutional
+results in Defendant States.
+6. Declare that the President, Attorney
+General, and Vice-President violated the Take Care
+Clause by failing to act to remedy the violations of the
+Constitution in the November 2020 election.
+7. Enjoin the use of vacated certifications in
+Defendant States’ use of the 2020 election results for
+the Office of President to appoint presidential electors
+to the Electoral College.
+8. Declare that the counting of electoral
+votes in the Joint Session of Congress on January 6-7,
+2021, violated the Electors Clause, the Due Process
+Clause, the Guarantee Clause, the Take Care Clause,
+and the Twelfth Amendment, and vacate that count.
+75
+9. Enjoin the Officer Defendants to convene
+special sessions of the House of Representatives and
+the Senate to vote for the President and Vice-President, 
+respectively, pursuant to the Twelfth Amendment.
+10. Alternatively, authorize, pursuant to the
+Court’s remedial authority, the Defendant States to
+conduct a special election to appoint presidential
+electors.
+11. Alternatively, authorize, pursuant to the
+Court’s remedial authority, the Defendant States to
+conduct an audit of their election results, supervised
+by a Court-appointed special master, in a manner to
+be determined separately.
+12. Enjoin Defendant States’ use in future
+elections of revisions adopted by non-legislative actors
+to the election laws enacted by the state legislatures
+unless the legislature ratifies any such revisions by
+enacting them as state law before the election.
+13. Award costs to Plaintiff State.
+14. Grant such other relief as the Court
+deems just and proper.
+November 24, 2021 
+Respectfully submitted,
+C. Patrick Lanyon, Resident of CT since 1983.
+[Name/title]
